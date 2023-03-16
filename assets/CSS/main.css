@@ -1,18 +1,117 @@
-@import "modules/cards.css";
-@import "modules/buttons.css";
-@import "modules/variable.css";
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+/* Ombre pour les cards */
+articlesShadow{
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+}
 
 body {
-    background-color: darkseagreen;
+    background-color: rgb(239 233 234);
 }
 
 .article1 {
     background-image: url("/assets/images/homeJCVD.jpg");
 }
 
+/* Début du CSS pour la page tribute */
+
+.tribute{
+    display: flex;
+
+    background-color: rgb(239 233 234);
+    width: 100%;
+    height: auto;
+}
+
+/* Style pour l'image */
+.tributeIMG{
+    display: flex;
+    justify-content: end;
+    margin: 3.5em 1.5em 2em 0;
+    width: 850px;
+    height: 850px;
+
+}
+
+.blockquotes{
+
+    font-size: 1.4em;
+    width: 50%;
+    margin-top: 2em;
+    margin-left: 3em;
+}
+
+blockquote{
+    width: 100%;
+    padding: 1em;
+    font-size: 1.1em;
+}
+
+
+/*  Style pour l'auteur */
+cite{
+    display: inline-block;
+    padding-top: 1em;
+}
+
+/* Création des cercles pour les Réseaux Sociaux */
+.cercles{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+#facebook{
+    /*background-color: aqua;*/
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#instagram{
+    background-color: aqua;
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+}
+#twitter{
+    background-color: aqua;
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+}
+#shop{
+    background-color: aqua;
+    width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background-image: url("/assets/images/logoShopJCVD.jfif");
+}
+
+
+/* Style du titre */
+#titleRS{
+    margin-top: 3em;
+    margin-bottom: 2em;
+    padding: 1em;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(239 233 234);
+}
+
+
+/* Fin du CSS pour la page tribute */
