@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    margin-top: auto;
+}
+
+.footer ul  {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    background-color: #655151;
+    color: #efe9ea;
+}
+
+.footer a   {
+    text-decoration: none;
+    color: #efe9ea;
+    font-family: 'Michroma', sans-serif;
+}
