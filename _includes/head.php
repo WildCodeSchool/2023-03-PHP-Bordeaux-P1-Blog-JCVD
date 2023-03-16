@@ -9,22 +9,3 @@
     <title>Document</title>
 </head>
 <body>
-<p>test</p>
-<nav></nav>
-
-<header>
-
-</header>
-
-<article>
-    <card>
-        <div class="article1">
-        </div>
-        <div>
-            <h2>Article 1</h2>
-            <p>Bla bla bla</p>
-        </div>
-    </card>
-</article>
-</body>
-</html>
