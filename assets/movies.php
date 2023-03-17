@@ -14,12 +14,12 @@
 
 <body>
 
-    <header>
+    <div class="entitled">
         <h2>Below our curated best movies from Jean-Claude Van Damme</h2>
-    </header>
+    </div>
 
     <!--"le main" englobe les 4 cards-->
-    <main>
+    <main class="main-movies">
         <!--Bloodsport-->
         <div class="Bloodsport">
             <img src="images/Bloodsport.jpg" alt="Affiche du film Bloodsport">
@@ -27,7 +27,7 @@
                 <h2>Bloodsport</h2>
                 <p><strong>Date de sortie</strong> : 26 février 1988</p>
 
-                    <p><strong>Synopsis</strong> : le capitaine Frank Dux,soldat américain, entraîné dès son plus jeune âge à l'art du Ninjutsu par un maître en art martiaux japonais se rend à Hong Kong afin de participer au Kumite, un tournoi clandestin d'arts martiaux mixtes où se réunissent,tous les cinq ans, les meilleurs combattants de la planète et qui peut parfois se terminer par la mort.</p>
+                    <p><strong>Synopsis</strong> : le capitaine Frank Dux, soldat américain, entraîné dès son plus jeune âge à l'art du Ninjutsu par un maître en art martiaux japonais se rend à Hong Kong afin de participer au Kumite, un tournoi clandestin d'arts martiaux mixtes où se réunissent,tous les cinq ans, les meilleurs combattants de la planète et qui peut parfois se terminer par la mort.</p>
 
                     <p><strong>Notre avis</strong> : The first one, avec un combat finale d'anthologie ! JCVD qui combat à l'aveugle en slow motion...ça vaut le détour!</p>
             </div>
@@ -53,7 +53,7 @@
             </div>
             <div class="description">
                 <h2>Street-Fighter</h2>
-                    <p><strong>Date de sortie</strong> : 23 Décembre 1994 </p>
+                    <p><strong>Date de sortie</strong> : 23 décembre 1994 </p>
 
                     <p><strong>Synopsis</strong> : Le pays de Shadaloo, en Asie, est en proie à une guerre civile menée par le général M. Bison. À la suite d'une nouvelle attaque, il prend 63 membres d'une organisation humanitaire en otage, ainsi que trois soldats des Nations Alliées. Dans un message télévisé, Bison impose un délai de 72 heures pour le versement d'une rançon de 20 milliards de dollars contre leur libération.</p>
 
