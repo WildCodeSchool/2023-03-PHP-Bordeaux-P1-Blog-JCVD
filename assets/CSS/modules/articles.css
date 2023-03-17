@@ -1,35 +1,31 @@
 @import "/assets/CSS/main.css";
 
-.containerArticles p{
-    color: #655151FF;
-    font-size: 1em;
+.containerMain{
+    width: 100vw;
+    height: 100%;
+}
+
+.containerArticles {
+    width: 90vw;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .containerArticles h2{
     color: #655151FF;
     padding: 3px 0;
-    font-size: .75em;
+    font-size: 1.2em;
 }
 
-.containerMain{
-    width: 100vw;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.containerArticles {
-    width: 80vw;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+.containerArticles p{
+    color: #655151FF;
 }
 
 .cardArticle {
     width: 100%;
-    height: 50vh;
+    height: 80vh;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
     padding: 5px 10px;
     margin-bottom: 5vh;
@@ -37,8 +33,8 @@
 
 .containerImageArticle {
     position: relative;
-    overflow:hidden;
-    height: 30vh;
+    overflow: hidden;
+    height:30vh;
     display: flex;
     justify-content: center;
 }
@@ -70,10 +66,10 @@
     opacity: 1;
 }
 
-.credit{
-    color: rgb(220, 213, 213);
+.appearCredit .credit{
     background-color: rgba(17, 0, 0, 0.6);
-    padding: 10px 10px;
+    padding: 5px 5px;
+    color: rgb(220, 213, 213);
 }
 
 .top3 {
@@ -85,7 +81,12 @@ aside{
     display: none;
 }
 
+/*
 @media screen and (min-width: 426px) {
+    .containerMain{
+
+    }
+
     .containerArticles h2 {
         font-size: 1.25em;
     }
@@ -108,16 +109,16 @@ aside{
     .containerMain {
         display: flex;
         flex-direction: row;
-        align-items: center;
+        margin: 0 auto;
     }
 
     .containerArticles {
         width: 70%;
         height: 100%;
-        margin-left: 10px;
-        display: flex;;
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
         align-items: start;
+        justify-content: space-around;
     }
 
     .containerArticles h2 {
@@ -127,7 +128,9 @@ aside{
     .containerArticles p {
         font-size: 0.9em;
     }
-
+    .containerAside{
+        display: flex;
+    }
     .cardArticle {
         height: 45vh;
     }
@@ -160,11 +163,10 @@ aside{
     }
 
     aside {
-        width: 30%;
-        height: 70vh;
+        width: 25%;
+        height: 50vh;
         padding: 0 15px;
-        margin-left: 10px;
-        margin-right: 10px;
+        margin: 0 10px;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -172,18 +174,19 @@ aside{
         box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
 
     }
-    .asideRelative{
-        position: relative;
-        top: 30px;
+    .asideStatic {
+        position: fixed;
+        top: 50px;
+        right: 10px;
     }
 
     aside h2{
-        display: block;
-        padding: 10px 0 20px 0;
+        padding: 20px 0 20px 0;
     }
 
     aside p{
-        display: block;
+        text-align: center;
+        padding-bottom: 20px;
     }
 
 }
@@ -196,11 +199,16 @@ aside{
     .containerArticles p {
         font-size: 1.2em;
     }
-
+    .containerArticle{
+        height: 70vh;
+    }
     .cardArticle {
         height: 70vh;
     }
 
+    .smallCard {
+        height: 50vh;
+    }
     .smallCard h2{
         font-size: 1.2em;
     }
@@ -210,6 +218,6 @@ aside{
     }
 
     .smallCard .containerImageArticle{
-       height: 10vw;
+       height: 15vw;
     }
 }

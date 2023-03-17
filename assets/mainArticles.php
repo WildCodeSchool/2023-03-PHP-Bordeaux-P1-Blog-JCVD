@@ -13,7 +13,7 @@
 
 <!--article "landscape" prenant 80% la largeur en mobile version et en version pc 80% de la largeur qui reste apres la side bar  -->
 <div class="containerMain">
-<div class="containerArticles">
+    <div class="containerArticles">
 
     <!-- article 3 roles marquants  -->
     <card class="cardArticle">
@@ -110,19 +110,20 @@
             <p>Le duo français s'est offert la présence de l'acteur, qui a tourné le clip avec ses enfants à Los Angeles pendant le confinement.</p>
         </div>
     </card>
+    </div>
 
-</div>
 
-<aside class="asideRelative">
+    <!-- block aside avec 3 liens vers des articles récents  -->
+    <aside class="asideStatic containerAside">
     <h2>TOP 3</h2>
     <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
-        <strong>Avec la sècheresse, cette mémorable interview refait surface</strong>
+            <p><strong>Avec la sècheresse, cette mémorable interview refait surface</strong></p>
     </a>
     <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
-        <strong>Article 2 à modifier le lien et le titre</strong>
+            <p><strong>Article 2 à modifier le lien et le titre</strong></p>
     </a>
     <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
-        <strong>Article 3 à modifier le lien et le titre</strong>
+            <p><strong>Article 3 à modifier le lien et le titre</strong></p>
     </a>
 </aside>
 
