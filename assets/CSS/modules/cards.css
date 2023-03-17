@@ -11,7 +11,7 @@ body{
 }
 /*partir Header représentant le titre de la page (H3)*/
 /* Taille de police changée car le titre paraissait trop petit*/
-header{
+.entitled{
     display: flex;
     justify-content: center;
     margin: 2em;
@@ -19,7 +19,7 @@ header{
 }
 
 /*Partie principale qui englobe les 4 cards*/
-main{
+.main-movies{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -32,7 +32,7 @@ main{
     align-items: center;
     margin: 1em;
     padding: 0.5em;
-    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    box-shadow: 0 6px 20px 0 rgba(101, 81, 81,.2);
 }
 /* Cette fonction concerne les 4 cards.
  La classe ".description" est présente dans chacune d'elle */
@@ -48,7 +48,7 @@ main{
     align-items: center;
     margin: 1em;
     padding: 0.5em;
-    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    box-shadow: 0 6px 20px 0 rgba(101, 81, 81,.2);
 }
 /* Card de Street-fighter*/
 .street-fighter{
@@ -57,7 +57,8 @@ main{
     align-items: center;
     margin: 1em;
     padding: 0.5em;
-    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    box-shadow: 0 6px 20px 0 rgba(101, 81, 81,.2);
+
 }
 /* classe servant à modifier la position de l'image*/
 .img-streetfight{
@@ -72,7 +73,8 @@ main{
     align-items: center;
     margin: 1em;
     padding: 0.5em;
-    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    box-shadow: 0 6px 20px 0 rgba(101, 81, 81,.2);;
+
 }
 /*Media queries, je veux que les 4 cards apparaissent en column sur les écrans mobiles*/
 @media screen and (max-width: 480px) {
