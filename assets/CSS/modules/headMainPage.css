@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.firstNavBar {
+    background-color: #655151;
+}
+
+.firstNavBar a   {
+    text-decoration: none;
+    font-family: 'Michroma', sans-serif;
+    color: #efe9ea;
+}
+
+.firstNavBar ul  {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.mainImage img  {
+    width: 100vw;
+}
