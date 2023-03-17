@@ -1,6 +1,16 @@
-<!DOCTYPE html>
+<!doctype html>
+<html lang="fr">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
 <link rel="stylesheet" href="/assets/CSS/main.css">
+<link rel="stylesheet" href="/assets/CSS/modules/poeme.css">
 <div class="tribute">
     <div class="blockquotes">
     <blockquote>
@@ -44,16 +54,17 @@
         <img src="/assets/images/poemeJCVD.jpeg" alt="image of JCVD">
     </div>
 
-</div>
+    </div>
 
 <h3 id="titleRS">If you want more about JCVD click below!</h3>
 
 <div class="cercles">
-    <div id="facebook"> <a src="assets/images/JCVDRS.jpg" href="https://www.facebook.com/JCVDworld/?locale=fr_FR" </a></div>
-    <div id="instagram"><a src= "assets/images/logoInstagram.png" href="https://www.instagram.com/jcvd/?hl=fr"></a></div>
-    <div id="twitter"><a href="https://twitter.com/JCVD"></a></div>
-    <div id="shop"><a href="https://jcvdshop.com/"></a></div>
+    <div class="cercleFacebook"><a href="https://www.facebook.com/JCVDworld/?locale=fr_FR"><img src="/assets/images/logoFacebook.webp" alt="Logo Facebook" </a></div>
+    <div class="cercleInstagram"><a href="https://www.instagram.com/jcvd/?hl=fr"><img src="/assets/images/logoInstagram.png" alt="Logo Instagram" </a></div>
+    <div class="cercleTwitter"><a href="https://twitter.com/JCVD"><img src="/assets/images/logoTwitter.avif" alt="Logo Twitter"> </a></div>
+    <div class="cercleShop"><a href="https://jcvdshop.com/"><img src="/assets/images/logoShopJCVD.jfif" alt="Logo Shop JCVD"></a></div>
 </div>
 
+</body>
 
-<!-- <a href="https://twitter.com/JCVD"><img src="/assets/images/JCVDRS.jpg"></a> -->
+</html>
