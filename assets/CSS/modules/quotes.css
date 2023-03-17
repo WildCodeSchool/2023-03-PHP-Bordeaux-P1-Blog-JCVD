@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+
+.firstNavBar ul  {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.mainImage img  {
+    width: 100vw;
+}
+
+
+
+/* CSS FOR THE QUOTES SECTION */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+iframe {
+    width: 560px;
+    height: 315px;
+}
+
+.bodyMovies {
+    background-color: #efe9ea;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    color: #655151;
+}
+
+
+.quoteOne   {
+    background-color: #efe9ea;
+    color: #655151;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    margin-bottom: 40px;
+}
+
+
+
+.quoteTwo   {
+    background-color: #efe9ea;
+    color: #655151;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    margin-bottom: 40px;
+}
+
+
+.quoteThree {
+    background-color: #efe9ea;
+    color: #655151;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    margin-bottom: 40px;
+}
+
+.quoteFour  {
+    background-color: #efe9ea;
+    color: #655151;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    margin-bottom: 40px;
+}
+
+
+.quoteFive  {
+    background-color: #efe9ea;
+    color: #655151;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
+    margin-bottom: 40px;
+}
+
+.quoteSix   {
+    background-color: #efe9ea;
+    color: #655151;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    margin-bottom: 40px;
+}
+
+/* Media query for the Movie Section
+@media screen and (max-width: 560px) {
+    body {
+        width: 100vw;
+    }
+    iframe {
+        width: 100vw;
+        height: 315px;
+    }
+    .quoteOne .quoteTwo .quoteThree .quoteFour .quoteFive .quoteSix {
+        width: 100vw;
+        margin-right: 20px;
+    }
+
+} */
+
+@media screen and (min-width: 561px) {
+    body {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}
