@@ -1,19 +1,36 @@
-/* CSS FOR THE MOVIE SECTION */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+
+.firstNavBar ul  {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.mainImage img  {
+    width: 100vw;
+}
+
+
+
+/* CSS FOR THE QUOTES SECTION */
 * {
-    font-family: 'Roboto', sans-serif;
-    color: #655151;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
+
 iframe {
     width: 560px;
     height: 315px;
 }
 
-body {
+.bodyMovies {
     background-color: #efe9ea;
     display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    color: #655151;
 }
 
 
@@ -67,7 +84,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+    box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
     margin-bottom: 40px;
 }
 
@@ -81,7 +98,7 @@ body {
     margin-bottom: 40px;
 }
 
-/* Media query for the Movie Section */
+/* Media query for the Movie Section
 @media screen and (max-width: 560px) {
     body {
         width: 100vw;
@@ -95,7 +112,7 @@ body {
         margin-right: 20px;
     }
 
-}
+} */
 
 @media screen and (min-width: 561px) {
     body {
