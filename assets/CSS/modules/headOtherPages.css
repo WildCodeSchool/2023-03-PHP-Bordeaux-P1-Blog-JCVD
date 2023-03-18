@@ -1,9 +1,16 @@
-/* Drop down menu */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+*   {
+    padding: 0;
+    margin: 0;
+}
 
 body {
     font-family: Michroma, sans-serif;
     background-color: #efe9ea;
 }
+
+/* Drop down menu */
 
 .textTitle {
     text-align: center;
@@ -12,8 +19,10 @@ body {
 .nameBar {
     position: sticky;
     background-color: #655151;
-    padding: 17px;
     color: #efe9ea;
+    width: 100vw;
+    margin-bottom: 20px;
+    padding: 15px;
 }
 
 #menu {
@@ -108,10 +117,4 @@ body {
     width: 520px;
     height: 460px;
     transform: translate(-60%, -30%);
-}
-
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
 }
