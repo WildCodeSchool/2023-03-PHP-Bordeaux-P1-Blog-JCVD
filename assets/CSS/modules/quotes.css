@@ -1,11 +1,12 @@
 /* CSS FOR THE QUOTES SECTION */
 
-
+/* CSS PROPERTIES FOR THE VIDEO */
 iframe {
     width: 560px;
     height: 315px;
 }
 
+/* CSS PROPERTIES FOR THE DIV CONTAINING THE QUOTES*/
 .parentQuotes   {
     background-color: #efe9ea;
     font-family: 'Roboto', sans-serif;
@@ -13,10 +14,9 @@ iframe {
     flex-direction: row;
     justify-content: space-around;
     flex-wrap: wrap;
-
-
 }
 
+/* CSS PROPERTIES FOR THE QUOTE CARDS */
 .quoteOne {
     background-color: #efe9ea;
     color: #655151;
@@ -81,6 +81,7 @@ iframe {
     margin-bottom: 40px;
 }
 
+/* CSS PROPERTIES FOR THE MEDIA QUERIES*/
 
 @media screen and (max-width: 560px) {
     body {

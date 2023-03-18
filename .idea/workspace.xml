@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f07ea34-3833-4e55-adfc-fac96c579a1e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_includes/headMainPage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/headOtherPages.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/CSS/modules/headOtherPages.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CSS/modules/aboutUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/modules/aboutUs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CSS/modules/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/modules/headMainPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/CSS/modules/quotes.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/modules/quotes.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/aboutUs.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/aboutUs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/burgerMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/burgerMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/quotes.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/quotes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,25 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sdubo/Wildcodeschool/Project 1/2023-03-PHP-Bordeaux-P1-Blog-JCVD",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sdubo/Wildcodeschool/Project 1/2023-03-PHP-Bordeaux-P1-Blog-JCVD&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sdubo\Wildcodeschool\Project 1\2023-03-PHP-Bordeaux-P1-Blog-JCVD\assets\CSS\modules" />
@@ -92,7 +83,8 @@
       <workItem from="1678980274270" duration="4016000" />
       <workItem from="1678984685724" duration="4613000" />
       <workItem from="1679039683403" duration="1237000" />
-      <workItem from="1679046433184" duration="6738000" />
+      <workItem from="1679046433184" duration="9100000" />
+      <workItem from="1679128617593" duration="1569000" />
     </task>
     <servers />
   </component>
