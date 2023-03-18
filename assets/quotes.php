@@ -5,15 +5,12 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
-    <script src="/assets/burgerMenu.js"></script>
+    <link rel="stylesheet" href="/assets/CSS/modules/quotes.css">
+
     <title>Document</title>
 </head>
 
-<body>
-
-<div class="bodyMovies">
-
+<div class="parentQuotes">
 <div class="quoteOne">
     <div class="videoOne">
         <iframe src="https://www.youtube.com/embed/PZskaNIPINQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -92,8 +89,5 @@
         </p>
     </div>
 </div>
-
 </div>
-
-</body>
 </html>
