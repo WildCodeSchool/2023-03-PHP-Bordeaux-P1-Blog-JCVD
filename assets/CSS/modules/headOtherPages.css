@@ -16,6 +16,7 @@ body {
     text-align: center;
 }
 
+
 .nameBar {
     position: sticky;
     background-color: #655151;
@@ -23,6 +24,7 @@ body {
     width: 100vw;
     margin-bottom: 20px;
     padding: 15px;
+    font-size: 14px;
 }
 
 #menu {
@@ -118,3 +120,42 @@ body {
     height: 460px;
     transform: translate(-60%, -30%);
 }
+
+@media screen and (max-width: 768px)    {
+    .nameBar    {
+        font-size: xx-small;
+    }
+    #menu-bar   {
+        width: 22px;
+        height: 20px;
+        margin: 20px 0 10px 10px;
+        cursor: pointer;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .nameBar h1 {
+        font-size: 10px;
+    }
+
+    #menu-bar {
+        width: 22px;
+        height: 20px;
+        margin: 20px 0 5px 5px;
+        cursor: pointer;
+    }
+    .nav li a  {
+        font-size: 10px;
+    }
+
+    .change-bg {
+        width: 346px;
+        height: 330px;
+        transform: translate(-60%, -30%);
+    }
+
+    .menu-bg    {
+      margin: 50px 0 50px 50px;
+    }
+}
+
