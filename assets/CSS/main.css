@@ -1,22 +1,22 @@
-* {
-    margin: 0;
+/* Variables */
+
+
+:root   {
+
+    /* Colours */
+
+    --main-bg-color: #EFE9EAFF;
+    --second-bg-color: #655151;
+    --main-text-color: #655151;
+    --second-text-color: #EFE9EAFF;
+
+    /* Fonts */
+
+    --font-body:'Roboto', sans-serif;
+    --font-navbar: Michroma, sans-serif;
+}
+
+*   {
     padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    background-color: #EFE9EAFF;
-}
-/* Ombre pour les cards */
-articlesShadow{
-    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
-}
-
-
-body {
-    background-color: rgb(239 233 234);
-}
-
-.article1 {
-    background-image: url("/assets/images/homeJCVD.jpg");
+    margin: 0;
 }
