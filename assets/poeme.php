@@ -7,10 +7,33 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="/assets/CSS/main.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/poeme.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
+    <script src="/assets/burgerMenu.js"></script>
 </head>
+
 <body>
-<link rel="stylesheet" href="/assets/CSS/main.css">
-<link rel="stylesheet" href="/assets/CSS/modules/poeme.css">
+    <div class="nameBar">
+        <div id="menu">
+            <div id="menu-bar" onclick="menuOnClick()">
+                <div id="bar1" class="bar"></div>
+                <div id="bar2" class="bar"></div>
+                <div id="bar3" class="bar"></div>
+            </div>
+            <nav class="nav" id="nav">
+                <ul>
+                    <li><a href="/assets/mainArticles.php">Home</a></li>
+                    <li><a href="/assets/poeme.php">Tribute</a></li>
+                    <li><a href="/assets/movies.php">Filmographie</a></li>
+                    <li><a href="/assets/quotes.php">Famous Quotes</a></li>
+                    <li><a href="/assets/aboutUs.php">About us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
 <div class="tribute">
     <div class="blockquotes">
     <blockquote>
@@ -59,11 +82,20 @@
 <h3 id="titleRS">If you want more about JCVD click below!</h3>
 
 <div class="cercles">
-    <div class="cercleFacebook"><a href="https://www.facebook.com/JCVDworld/?locale=fr_FR"><img src="/assets/images/logoFacebook.webp" alt="Logo Facebook" </a></div>
-    <div class="cercleInstagram"><a href="https://www.instagram.com/jcvd/?hl=fr"><img src="/assets/images/logoInstagram.png" alt="Logo Instagram" </a></div>
-    <div class="cercleTwitter"><a href="https://twitter.com/JCVD"><img src="/assets/images/logoTwitter.png" alt="Logo Twitter"> </a></div>
-    <div class="cercleShop"><a href="https://jcvdshop.com/"><img src="/assets/images/logoShopJCVD.jfif" alt="Logo Shop JCVD"></a></div>
+    <div class="cercleFacebook"><a href="https://www.facebook.com/JCVDworld/?locale=fr_FR" target="_blank"><img src="/assets/images/logoFacebook.webp" alt="Logo Facebook" </a></div>
+    <div class="cercleInstagram"><a href="https://www.instagram.com/jcvd/?hl=fr" target="_blank"><img src="/assets/images/logoInstagram.png" alt="Logo Instagram" </a></div>
+    <div class="cercleTwitter"><a href="https://twitter.com/JCVD" target="_blank"><img src="/assets/images/logoTwitter.png" alt="Logo Twitter"> </a></div>
+    <div class="cercleShop"><a href="https://jcvdshop.com/" target="_blank"><img src="/assets/images/logoShopJCVD.jfif" alt="Logo Shop JCVD"></a></div>
 </div>
+
+<footer>
+    <div class="footer">
+        <ul class="ul-footer">
+            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
+            <li><a href="/assets/aboutUs.php">About us</a></li>
+        </ul>
+    </div>
+</footer>
 
 </body>
 
