@@ -29,5 +29,5 @@
     </div>
 
     <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME</h1>
+    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
 </div>
