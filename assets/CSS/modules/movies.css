@@ -1,0 +1,129 @@
+.article1 {
+    background-image: url("/assets/images/homeJCVD.jpg");
+}
+
+/* début du CSS pour les cards des différents films*/
+
+body{
+
+    background-color: rgba(239, 233, 234, 100);
+    font-family: 'Roboto', sans-serif;
+}
+/*partir Header représentant le titre de la page (H3)*/
+/* Taille de police changée car le titre paraissait trop petit*/
+
+.entitled{
+    display: flex;
+    justify-content: center;
+    margin: 2em;
+    font-size: 1.5vw;
+}
+
+/*Partie principale qui englobe les 4 cards*/
+
+main{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+/* Card de Bloodsport*/
+
+.Bloodsport{
+    width: 45vw;
+    display: flex;
+    align-items: center;
+    margin: 1em;
+    padding: 0.5em;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+}
+
+/* Cette fonction concerne les 4 cards. La classe ".description" est présente dans chacune d'elle */
+
+.description{
+    padding: 20px;
+    background-color: #F2EDEE;}
+
+/* Card de Kickboxer*/
+
+.Kickboxer{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    margin: 1em;
+    padding: 0.5em;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+}
+
+/* Card de Street-fighter*/
+
+.street-fighter{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    margin: 1em;
+    padding: 0.5em;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+}
+
+/* classe servant à modifier la position de l'image*/
+
+.img-streetfight {
+    padding-left: 0.5em;
+}
+
+
+/* Card de Lucas*/
+
+.Lukas{
+    width: 45%;
+    display: flex;
+    align-items: center;
+    margin: 1em;
+    padding: 0.5em;
+    box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+}
+
+/*Media queries, je veux que les 4 cards apparaissent en column sur les écrans mobiles*/
+
+@media screen and (max-width: 430px) {
+    main {
+        flex-direction: column;    }
+    .Bloodsport{
+        flex-direction: column;
+        width: 90%;
+    }
+    .Kickboxer{
+        flex-direction: column;
+        width: 90%;
+    }
+    .street-fighter{
+        flex-direction: column;
+        width: 90%;
+    }
+    .Lukas{
+        flex-direction: column;
+        width: 90%;
+    }
+    .entitled{
+        font-size: 2vw;
+    }
+}
+
+/*Media queries pour Ipad*/
+
+@media screen and (min-device-width : 768px) and (max-device-width : 1024px){
+
+            .Bloodsport{
+                width: 70%;
+            }
+    .Kickboxer{
+        width: 70%;
+    }
+    .street-fighter{
+        width: 70%;
+    }
+    .Lukas{
+        width: 70%;
+    }
+}
