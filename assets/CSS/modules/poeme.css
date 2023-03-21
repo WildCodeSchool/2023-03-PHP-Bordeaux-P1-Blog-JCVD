@@ -117,44 +117,35 @@ cite{
     }
 
     .cercles{
+        padding-top: 3em;
         display: flex;
-
+        width: 100%;
+        height: 200px;
     }
 
     .cercleFacebook{
-        display: flex;
+        margin: 0.5em;
+        width: 120px;
+        height: 120px;
 
-        /*width: 160px;
-        height: 160px;
-        margin-left: 1em;*/
     }
 
     .cercleInstagram{
-        display: flex;
-        /*position: absolute;
-        top: 815px;
-        right: 20px;
-        width: 160px;
-        height: 160px;*/
+        margin: 0.5em;
+        width: 120px;
+        height: 120px;
     }
 
     .cercleTwitter{
-        display: flex;
-        /*position: absolute;
-        left: -30px;
-        top: 1050px;
-        width: 250px;
-        height: 250px;
-        margin-right: 1em;*/
+        margin: 0.5em 0;
+        width: 210px;
+        height: 210px;
     }
 
     .cercleShop {
-        display: flex;
-        /*position: absolute;
-        right: 20px;
-        top: 1050px;
-        width: 160px;
-        height: 160px;*/
+        margin: 0.5em;
+        width: 120px;
+        height: 120px;
     }
     #titleRS{
         font-size: 0.9em;
