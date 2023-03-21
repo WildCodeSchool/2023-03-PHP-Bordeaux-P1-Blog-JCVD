@@ -3,13 +3,32 @@
     padding: 0;
     box-sizing: border-box;
 }
-<<<<<<< HEAD
+
+/* Variables */
+
+
+:root   {
+
+    /* Colours */
+
+    --main-bg-color: #EFE9EAFF;
+    --second-bg-color: #655151;
+    --main-text-color: #655151;
+    --second-text-color: #EFE9EAFF;
+
+    /* Shadows */
+
+    --box-shadow: box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
+}
+
+
 
 body {
     background-color: #EFE9EAFF;
-=======
+}
 /* Ombre pour les cards */
-articlesShadow{
+
+articlesShadow  {
     box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
 }
 
