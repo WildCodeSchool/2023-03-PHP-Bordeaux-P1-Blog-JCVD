@@ -1,13 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
-
-*   {
-    padding: 0;
-    margin: 0;
-}
-
 body {
     /*font-family: Michroma, sans-serif; */
-    background-color: #efe9ea;
+    background-color: var(--main-bg-color);
 }
 
 /* Drop down menu */
@@ -19,8 +12,8 @@ body {
 
 .nameBar {
     position: sticky;
-    background-color: #655151;
-    color: #efe9ea;
+    background-color: var(--second-bg-color);
+    color: var( --second-text-color);
     width: 100vw;
     margin-bottom: 20px;
     padding: 15px;
@@ -41,7 +34,7 @@ body {
 .bar {
     height: 5px;
     width: 100%;
-    background-color: #efe9ea;
+    background-color: var(--main-bg-color);
     display: block;
     border-radius: 5px;
     transition: 0.3s ease;
@@ -70,7 +63,7 @@ body {
 }
 
 .nav li a {
-    color: #efe9ea;
+    color: var(--second-text-color);
     font-size: 20px;
     text-decoration: none;
 }
@@ -90,7 +83,7 @@ body {
     width: 0;
     height: 0;
     margin: 90px 0 75px 75px;
-    background: radial-gradient(circle, #655151, #655151);
+    background: radial-gradient(circle, var(--second-bg-color), var(--second-bg-color));
     border-radius: 50%;
     transition: 0.3s ease;
 }
@@ -100,7 +93,7 @@ body {
 }
 
 .change .bar {
-    background-color: #efe9ea;
+    background-color: var(--main-bg-color);
 }
 
 .change #bar1 {

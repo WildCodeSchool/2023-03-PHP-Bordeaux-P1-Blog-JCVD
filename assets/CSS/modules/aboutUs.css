@@ -1,7 +1,7 @@
 body {
-    font-family: 'Roboto', sans-serif;
-    color: #655151;
-    background-color: #efe9ea;
+    font-family: var(--font-navbar);
+    color: var(--main-text-color);
+    background-color: var(--main-bg-color);
     text-align: center;
 }
 
