@@ -118,43 +118,37 @@ cite{
 
     .cercles{
         display: flex;
-
+        justify-content: space-around;
     }
 
     .cercleFacebook{
-        display: flex;
 
-        /*width: 160px;
-        height: 160px;
-        margin-left: 1em;*/
+
+        width: 100px;
+        height: 100px;
+        margin-left: 1em;
     }
 
     .cercleInstagram{
-        display: flex;
-        /*position: absolute;
-        top: 815px;
-        right: 20px;
-        width: 160px;
-        height: 160px;*/
+
+
+
+        width: 100px;
+        height: 100px;
     }
 
     .cercleTwitter{
-        display: flex;
-        /*position: absolute;
-        left: -30px;
-        top: 1050px;
-        width: 250px;
-        height: 250px;
-        margin-right: 1em;*/
+
+
+        width: 180px;
+        height: 180px;
+        margin-right: 1em;
     }
 
     .cercleShop {
-        display: flex;
-        /*position: absolute;
-        right: 20px;
-        top: 1050px;
-        width: 160px;
-        height: 160px;*/
+        
+        width: 100px;
+        height: 100px;
     }
     #titleRS{
         font-size: 0.9em;
