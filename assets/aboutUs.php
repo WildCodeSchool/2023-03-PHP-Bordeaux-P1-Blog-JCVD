@@ -74,7 +74,7 @@
 
         <div id="Aurelie">
             <div id="photoOne">
-                <img src="/assets/images/profilePhoto.jpg" alt="Profile Photo">
+                <img src="/assets/images/profilePhotoAurelie.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
                 <p>Aurélie Lozach <br/>
