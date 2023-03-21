@@ -61,7 +61,7 @@
 <div class="cercles">
     <div class="cercleFacebook"><a href="https://www.facebook.com/JCVDworld/?locale=fr_FR"><img src="/assets/images/logoFacebook.webp" alt="Logo Facebook" </a></div>
     <div class="cercleInstagram"><a href="https://www.instagram.com/jcvd/?hl=fr"><img src="/assets/images/logoInstagram.png" alt="Logo Instagram" </a></div>
-    <div class="cercleTwitter"><a href="https://twitter.com/JCVD"><img src="/assets/images/logoTwitter.avif" alt="Logo Twitter"> </a></div>
+    <div class="cercleTwitter"><a href="https://twitter.com/JCVD"><img src="/assets/images/logoTwitter.png" alt="Logo Twitter"> </a></div>
     <div class="cercleShop"><a href="https://jcvdshop.com/"><img src="/assets/images/logoShopJCVD.jfif" alt="Logo Shop JCVD"></a></div>
 </div>
 
