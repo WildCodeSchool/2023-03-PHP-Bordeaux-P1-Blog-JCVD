@@ -70,6 +70,18 @@ cite{
     border-radius: 120px;
 }
 
+.cercleFacebook:hover{
+    opacity: 0.5;
+}
+.cercleInstagram:hover{
+    opacity: 0.5;
+}
+.cercleTwitter:hover{
+    opacity: 0.5;
+}
+.cercleShop:hover{
+    opacity: 0.5;
+}
 /* Style du titre */
 #titleRS{
     margin-top: 3em;
