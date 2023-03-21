@@ -1,19 +1,30 @@
-/* Drop down menu */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&display=swap');
+
+*   {
+    padding: 0;
+    margin: 0;
+}
 
 body {
     font-family: Michroma, sans-serif;
     background-color: #efe9ea;
 }
 
+/* Drop down menu */
+
 .textTitle {
     text-align: center;
 }
 
+
 .nameBar {
     position: sticky;
     background-color: #655151;
-    padding: 17px;
     color: #efe9ea;
+    width: 100vw;
+    margin-bottom: 20px;
+    padding: 15px;
+    font-size: 14px;
 }
 
 #menu {
@@ -110,8 +121,41 @@ body {
     transform: translate(-60%, -30%);
 }
 
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
+@media screen and (max-width: 768px)    {
+    .nameBar    {
+        font-size: xx-small;
+    }
+    #menu-bar   {
+        width: 22px;
+        height: 20px;
+        margin: 20px 0 10px 10px;
+        cursor: pointer;
+    }
 }
+
+@media screen and (max-width: 425px) {
+    .nameBar h1 {
+        font-size: 10px;
+    }
+
+    #menu-bar {
+        width: 22px;
+        height: 20px;
+        margin: 20px 0 5px 5px;
+        cursor: pointer;
+    }
+    .nav li a  {
+        font-size: 10px;
+    }
+
+    .change-bg {
+        width: 346px;
+        height: 330px;
+        transform: translate(-60%, -30%);
+    }
+
+    .menu-bg    {
+      margin: 50px 0 50px 50px;
+    }
+}
+

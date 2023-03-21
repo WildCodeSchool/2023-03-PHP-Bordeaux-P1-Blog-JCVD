@@ -5,15 +5,18 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/assets/CSS/modules/quotes.css">
     <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
-    <script src="/assets/burgerMenu.js"></script>
+    <script src="burgerMenu.js"></script>
+
     <title>Document</title>
 </head>
 
 <body>
 
-<div class="bodyMovies">
+<!-- Qoute 1 -->
 
+<div class="parentQuotes">
 <div class="quoteOne">
     <div class="videoOne">
         <iframe src="https://www.youtube.com/embed/PZskaNIPINQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -26,6 +29,8 @@
         </p>
     </div>
 </div>
+
+<!-- QUOTE 2 -->
 
 <div class="quoteTwo">
     <div class="videoTwo">
@@ -40,6 +45,8 @@
     </div>
 </div>
 
+    <!-- QUOTE 3 -->
+
 <div class="quoteThree">
     <div class="videoThree">
         <iframe src="https://www.youtube.com/embed/yNQWs-mdhoE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -53,6 +60,8 @@
     </div>
 </div>
 
+    <!-- QUOTE 4 -->
+
 <div class="quoteFour">
     <div class="videoFour">
         <iframe src="https://www.youtube.com/embed/ru4u1dVL-Ms" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -65,6 +74,8 @@
         </p>
     </div>
 </div>
+
+    <!-- QUOTE 5 -->
 
 <div class="quoteFive">
     <div class="videoFive">
@@ -80,6 +91,8 @@
     </div>
 </div>
 
+    <!-- QUOTE 6 -->
+
 <div class="quoteSix">
     <div class="videoSix">
         <iframe src="https://www.youtube.com/embed/yNQWs-mdhoE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -92,7 +105,6 @@
         </p>
     </div>
 </div>
-
 </div>
 
 </body>
