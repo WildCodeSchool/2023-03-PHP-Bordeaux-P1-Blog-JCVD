@@ -8,8 +8,8 @@ iframe {
 
 /* CSS PROPERTIES FOR THE DIV CONTAINING THE QUOTES*/
 .parentQuotes   {
-    background-color: #efe9ea;
-    font-family: 'Roboto', sans-serif;
+    background-color: var(--main-bg-color);
+    font-family: var(--font-body);
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -18,8 +18,8 @@ iframe {
 
 /* CSS PROPERTIES FOR THE QUOTE CARDS */
 .quoteOne {
-    background-color: #efe9ea;
-    color: #655151;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -30,8 +30,8 @@ iframe {
 
 
 .quoteTwo   {
-    background-color: #efe9ea;
-    color: #655151;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -41,8 +41,8 @@ iframe {
 
 
 .quoteThree {
-    background-color: #efe9ea;
-    color: #655151;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -51,8 +51,8 @@ iframe {
 }
 
 .quoteFour  {
-    background-color: #efe9ea;
-    color: #655151;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -62,8 +62,8 @@ iframe {
 
 
 .quoteFive  {
-    background-color: #efe9ea;
-    color: #655151;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -72,8 +72,8 @@ iframe {
 }
 
 .quoteSix   {
-    background-color: #efe9ea;
-    color: #655151;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
     display: flex;
     flex-direction: column;
     text-align: center;
