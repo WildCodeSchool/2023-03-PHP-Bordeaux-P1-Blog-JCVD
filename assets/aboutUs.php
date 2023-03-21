@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
     <link rel="stylesheet" href="/assets/CSS/modules/aboutUs.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
     <script src="/assets/burgerMenu.js"></script>
     <title>Document</title>
 </head>
@@ -162,6 +163,17 @@
         </p>
     </div>
 </div>
+<link rel="stylesheet" href="/assets/CSS/modules/footer.css">
+
+
+<footer>
+    <div class="footer">
+        <ul class="ul-footer">
+            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
+            <li><a href="/assets/aboutUs.php">About us</a></li>
+        </ul>
+    </div>
+</footer>
 
 </body>
 </html>
