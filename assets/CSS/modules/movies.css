@@ -1,3 +1,4 @@
+
 .article1 {
     background-image: url("/assets/images/homeJCVD.jpg");
 }
@@ -6,8 +7,9 @@
 
 body{
 
-    background-color: rgba(239, 233, 234, 100);
-    font-family: 'Roboto', sans-serif;
+    background-color: var(--main-bg-color);
+    font-family: var(--font-body);
+    color: var(--main-text-color);
 }
 /*partir Header représentant le titre de la page (H3)*/
 /* Taille de police changée car le titre paraissait trop petit*/
@@ -88,7 +90,12 @@ main{
 
 @media screen and (max-width: 430px) {
     main {
-        flex-direction: column;    }
+        flex-direction: column;
+    }
+
+    .entitled{
+        font-size: 1.1em;
+    }
     .Bloodsport{
         flex-direction: column;
         width: 90%;
@@ -96,6 +103,7 @@ main{
     .Kickboxer{
         flex-direction: column;
         width: 90%;
+        font-size: 0.9em;
     }
     .street-fighter{
         flex-direction: column;
@@ -116,14 +124,18 @@ main{
 
             .Bloodsport{
                 width: 70%;
+                font-size: 0.8em;
             }
     .Kickboxer{
         width: 70%;
+        font-size: 0.7em;
     }
     .street-fighter{
         width: 70%;
+        font-size: 0.8em;
     }
     .Lukas{
         width: 70%;
+        font-size: 0.8em;
     }
 }
