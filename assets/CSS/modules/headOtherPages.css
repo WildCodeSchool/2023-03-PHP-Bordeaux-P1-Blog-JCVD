@@ -12,6 +12,8 @@ body {
 
 .nameBar {
     position: sticky;
+    top: 0;
+    position: -webkit-sticky;
     background-color: var(--second-bg-color);
     color: var( --second-text-color);
     width: 100vw;
