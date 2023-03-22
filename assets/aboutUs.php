@@ -150,19 +150,20 @@
     <div class="projectExplanation">
         <p>
             This project has been created by the four of us, as an assignment during our study becoming fullstack Web Developpers.
-        This is our first of 3 projects during our study.
-        We used HTML and CSS to create this blog.
-        On this page you can find links to our LinkedIn and GitHub profiles.
+            <br>
+        This is our first of 3 projects during our study. <br>
+        We used HTML and CSS to create this blog. <br>
+        On this page you can find links to our LinkedIn and GitHub profiles. <br>
         We really enjoyed working on this project. It was our first
-        real experience in putting everything we learned in to practice.
+        real experience in putting everything we learned in to practice. <br>
         We were assigned the group name: JCVD, and got the assignment to create a blog
         of articles. We decided to use our group name as the subject of the blog.
-        So we created this blog all about the great Jean Claude van Damme.
+        So we created this blog all about the great Jean Claude van Damme. <br>
         We are not die hard fans, but the subject is still very interesting and we had
-        a good laugh while creating the blog.
-        Don't hesitate to contact us for further questions or information.
+        a good laugh while creating the blog. <br>
+        Don't hesitate to contact us for further questions or information. <br><br>
 
-        P.S. Jean Claude van Damme, if you ever happen to read this, keep up the good work!
+        P.S. Jean Claude van Damme, if you ever happen to read this, keep up the good work! <br><br>
         </p>
     </div>
 </div>

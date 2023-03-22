@@ -1,5 +1,4 @@
 body {
-    font-family: Michroma, sans-serif;
     background-color: var(--main-bg-color);
 }
 
@@ -18,7 +17,7 @@ body {
     font-family: var(--font-navbar);
     width: 100vw;
     margin-bottom: 20px;
-    padding: 15px 0 15px 0;
+    padding: 15px 0;
     font-size: 14px;
 }
 

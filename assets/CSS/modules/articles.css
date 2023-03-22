@@ -3,6 +3,7 @@
 .containerMain{
     width: 100vw;
     height: 100%;
+    font-family: var(--font-body);
 }
 
 .containerArticles {
@@ -65,19 +66,19 @@
 }
 
 .descriptionArticle h2{
-    color: #655151FF;
+    color: var(--main-text-color);
     padding: 3px 0;
     font-size: 1rem;
 }
 
 .descriptionArticle p{
-    color: #655151FF;
+    color: var(--main-text-color);
     font-size: 0.9rem;
 }
 
 .top3 {
     text-decoration: none;
-    color: #655151FF;
+    color: var(--main-text-color);
 }
 
 .containerAsideSticky{
@@ -105,7 +106,7 @@
 
     aside{
         display: block;
-        color: #655151;
+        color: var(--main-text-color);
     }
 
     .containerAsideSticky{
