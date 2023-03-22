@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af8ef3d-b7a8-498e-96f4-26ddf357c923" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/headMainPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/headMainPage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/CSS/modules/defilement_quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/modules/defilement_quote.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/defilement_quote.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/defilement_quote.php" afterDir="false" />
-    </list>
+    <list default="true" id="3af8ef3d-b7a8-498e-96f4-26ddf357c923" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +75,7 @@
       <workItem from="1679071231168" duration="56000" />
       <workItem from="1679143035845" duration="20425000" />
       <workItem from="1679243067951" duration="140000" />
-      <workItem from="1679327103477" duration="5104000" />
+      <workItem from="1679327103477" duration="6207000" />
     </task>
     <servers />
   </component>
