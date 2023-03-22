@@ -40,7 +40,7 @@
 </div>
 
     <div class="entitled">
-        <h2>Below our curated best movies from Jean-Claude Van Damme</h2>
+        <h2>Top 4 best movies from Jean-Claude Van Damme</h2>
     </div>
 
     <!--"le main" englobe les 4 cards-->
@@ -50,14 +50,16 @@
             <img src="images/Bloodsport.jpg" alt="Affiche du film Bloodsport">
             <div class="description">
                 <h2>Bloodsport</h2>
+                <br>
                 <p><strong>Date de sortie</strong> : 26 février 1988</p>
+                <br>
 
                     <p><strong>Synopsis</strong> : le capitaine Frank Dux, soldat américain, entraîné dès son plus jeune âge à l'art du Ninjutsu par un maître en art martiaux japonais se rend à Hong Kong afin de participer au Kumite, un tournoi clandestin d'arts martiaux mixtes où se réunissent,tous les cinq ans, les meilleurs combattants de la planète et qui peut parfois se terminer par la mort.</p>
 
                     <p><strong>Notre avis</strong> : The first one, avec un combat finale d'anthologie ! JCVD qui combat à l'aveugle en slow motion...ça vaut le détour!</p>
 
-
-                    <p><strong>Source</strong> : Film poster for Bloodsport (film) - Copyright 1988, Cannon Group/www.impawards.com<</p>
+                    <br>
+                    <p><strong>Source</strong> : Film poster for Bloodsport (film) - Copyright 1988, Cannon Group/www.impawards.com</p>
             </div>
         </div>
         <!--Kickboxer-->
@@ -65,31 +67,37 @@
                 <img src="images/Kickboxer_poster.jpg" alt="Affiche du film Kickboxer">
             <div class="description">
                 <h2>Kickboxer</h2>
+                <br>
 
                     <p><strong>Date de sortie</strong> : 8 septembre 1989</p>
+                <br>
 
                     <p><strong>Synopsis</strong> : En Thailande, Kurt Sloane décide de venger son frère champion du monde de kickboxing qui vient d'etres violement battu par le champion local, un denommé Tong Po. Un dangereux criminel ayant la main mise sur tout le village en plus d'etre un redoutable combattant.</p>
 
                     <p><strong>Notre avis</strong> : Un JCVD déja au sommet de son art qui fait face à ce qui est probablement l'un des méchants les plus emblématiques et terrifiants des films d'action de l'époque! </p>
+                <br>
 
                     <p><strong>Source</strong> : Poster from Kickboxer/Copyright Cannon Film Distributor/www.impawards.com</p>
 
             </div>
         </div>
         <!--Street-Fighter-->
-        <div class="street-fighter">
+        <div class="Kickboxer">
             <div class="img-streetfight">
                 <img src="images/StreetFighter.jpg" alt="Affiche du film Streetfighter">
             </div>
             <div class="description">
                 <h2>Street-Fighter</h2>
+                <br>
                     <p><strong>Date de sortie</strong> : 23 décembre 1994 </p>
+                <br>
 
                     <p><strong>Synopsis</strong> : Le pays de Shadaloo, en Asie, est en proie à une guerre civile menée par le général M. Bison. À la suite d'une nouvelle attaque, il prend 63 membres d'une organisation humanitaire en otage, ainsi que trois soldats des Nations Alliées. Dans un message télévisé, Bison impose un délai de 72 heures pour le versement d'une rançon de 20 milliards de dollars contre leur libération.</p>
 
                     <p><strong>Notre avis</strong> : JCVD en colonel Guile qui vient sauver le Shadaloo du terrible M.Bison,
                         le tout accompagné des personnages emblématiques du jeux-vidéo...
                         faut-il vraiment en dire plus? </p>
+                <br>
                     <p><strong>Source</strong> : Promotional poster from Street-fighter/ www.impawards.com</p>
             </div>
         </div>
@@ -100,11 +108,14 @@
             </div>
             <div class="description">
                 <h2>Lukas</h2>
+                <br>
                     <p><strong>Date de sortie</strong> : 22 Aout 2018 </p>
+                <br>
 
                     <p><strong>Synopsis</strong> : Un ancien garde du corps, maintenant videur de boite de nuit pour subvenir aux besoins de sa fille, se retrouve sous la menace d'une peine de prison lorsqu'il tente de maitriser un client agressif s'avérant être le fils d'un homme politique. Le seul moyen d'échapper à cette peine : Infiltrer l'organisation de son employeur ; une figure du crime organisé flamand. </p>
 
                     <p><strong>Notre avis</strong> : Ne vous fiez pas à l'affiche un peu cliché. Vous allez découvrir JCVD sous un autre angle dans ce film noir où il ne suffit pas d'envoyer des combos circulaires/uppercut pour battre le méchant!</p>
+                <br>
 
                     <p><strong>Source</strong> : Film poster for The Bouncer, Blue Fox Entertainment/imdb.com</p>
             </div>

@@ -14,8 +14,13 @@ body{
 .entitled{
     display: flex;
     justify-content: center;
-    margin: 2em;
-    font-size: 1.5vw;
+    margin: 50px 0 60px 0;
+    font-family: var(--font-navbar) ;
+    color: var(--main-text-color);
+}
+
+.entitled h2    {
+    font-size: 32px;
 }
 
 /*Partie principale qui englobe les 4 cards*/
@@ -65,6 +70,7 @@ main{
     padding: 0.5em;
     box-shadow: 0 0 10px -4px rgba(0,0,0,0.74);
 }
+
 
 /* classe servant à modifier la position de l'image*/
 
