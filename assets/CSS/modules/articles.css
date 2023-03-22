@@ -115,7 +115,8 @@
         flex-direction: column;
         align-items: center;
         position: sticky;
-        top: 100px;
+        top: 80px;
+        margin-left: 20px;
         height: 40vh;
         padding: 0 15px;
         box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
@@ -173,7 +174,7 @@
 
     .cardArticle {
         height:36vh;
-        margin-bottom: 20px;
+        margin-bottom: 50px;
     }
 
     .containerImageArticle {
@@ -226,7 +227,7 @@
 
     .cardArticle {
         height:70vh;
-        margin-bottom: 20px;
+        margin-bottom: 50px;
     }
 
     .containerImageArticle {

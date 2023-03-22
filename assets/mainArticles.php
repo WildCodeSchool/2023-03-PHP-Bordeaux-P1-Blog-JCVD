@@ -28,7 +28,7 @@
 </nav>
 
 <div class="mainImage">
-    <img src="/assets/images/homeJCVD2.jpg" alt="Jean Claude van Damme fait un split">
+    <img src="/assets/images/homeJCVD3.jpg" alt="Jean Claude van Damme fait un split">
 </div>
 
 <!--articles -->

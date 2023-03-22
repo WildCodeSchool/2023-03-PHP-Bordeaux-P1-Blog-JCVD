@@ -14,6 +14,7 @@
 </head>
 
 <body>
+
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -36,9 +37,14 @@
     <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
 </div>
 
+<div class="TitleQuotes">
+    <h1>Some of the best quotes of JCVD</h1>
+</div>
+
 <!-- Qoute 1 -->
 
 <div class="parentQuotes">
+
 <div class="quoteOne">
     <div class="videoOne">
         <iframe src="https://www.youtube.com/embed/PZskaNIPINQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
