@@ -13,6 +13,8 @@
     <title>Famous Quotes</title>
 </head>
 
+<body>
+
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
