@@ -1,8 +1,11 @@
 /* Début du CSS pour la page tribute */
+
+
 img{
     width: 100%;
     height: auto;
 }
+
 
 .tribute{
     display: flex;
@@ -32,7 +35,6 @@ blockquote{
     padding: 1em;
     font-size: 1.1em;
 }
-
 
 /*  Style pour l'auteur */
 cite{
@@ -70,6 +72,18 @@ cite{
     border-radius: 120px;
 }
 
+.cercleFacebook:hover{
+    opacity: 0.5;
+}
+.cercleInstagram:hover{
+    opacity: 0.5;
+}
+.cercleTwitter:hover{
+    opacity: 0.5;
+}
+.cercleShop:hover{
+    opacity: 0.5;
+}
 /* Style du titre */
 #titleRS{
     margin-top: 3em;

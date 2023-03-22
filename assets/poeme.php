@@ -15,6 +15,7 @@
 </head>
 
 <body>
+
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -32,6 +33,9 @@
             </ul>
         </nav>
     </div>
+</div>
+<body>
+
 
     <div class="menu-bg" id="menu-bg"></div>
     <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>

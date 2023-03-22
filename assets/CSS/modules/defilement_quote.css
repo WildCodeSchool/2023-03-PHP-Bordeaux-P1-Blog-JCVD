@@ -1,0 +1,40 @@
+.cadre {
+    position: absolute;
+    top: 10px;
+    width: 100vh;
+    box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
+    overflow: hidden;
+}
+
+.centre {
+    top: 0;
+}
+
+.carousel {
+    position: relative;
+    width: 90vw;
+    height: 45px;
+    text-align: left;
+}
+
+.carousel .preTxt {
+    position: absolute;
+    top: 0;
+}
+
+.carousel .changeHidden {
+    position: absolute;
+    top: 0;
+    overflow: hidden;
+    height: 45px;
+}
+
+.carousel .changeHidden .contenant {
+    position: relative;
+    animation: carousel 8s ease-in-out infinite;
+
+}
+
+.carousel .changeHidden .element{
+    display: block;
+}
