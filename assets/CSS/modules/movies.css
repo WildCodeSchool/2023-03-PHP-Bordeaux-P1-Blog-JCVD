@@ -1,7 +1,4 @@
 
-.article1 {
-    background-image: url("/assets/images/homeJCVD.jpg");
-}
 
 /* début du CSS pour les cards des différents films*/
 
@@ -44,7 +41,8 @@ main{
 
 .description{
     padding: 20px;
-    background-color: #F2EDEE;}
+
+}
 
 /* Card de Kickboxer*/
 
