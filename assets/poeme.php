@@ -36,10 +36,10 @@
 </div>
 <body>
 
-
     <div class="menu-bg" id="menu-bg"></div>
     <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
 </div>
+
 
 <div class="tribute">
     <div class="blockquotes">
