@@ -110,8 +110,8 @@
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>

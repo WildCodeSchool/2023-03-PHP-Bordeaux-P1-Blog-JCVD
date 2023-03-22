@@ -36,7 +36,6 @@
     <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
 </div>
 
-</div>
 <!-- Qoute 1 -->
 
 <div class="parentQuotes">
@@ -133,8 +132,8 @@
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>

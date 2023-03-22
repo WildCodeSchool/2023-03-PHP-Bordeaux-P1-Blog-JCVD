@@ -7,21 +7,22 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/CSS/modules/headMainPage.css">
     <link rel="stylesheet" href="/assets/CSS/modules/articles.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
+    <link rel="stylesheet" href="/assets/CSS/main.css">
     <title>Document</title>
 </head>
 
 <body>
-
 <!-- NAVBAR WITH PHOTO -->
 
 <nav class="firstNavBar">
     <div class="navBar">
         <ul>
-            <li><a href="/assets/mainArticles.php">Home</a></li>
-            <li><a href="/assets/poeme.php">Tribute</a></li>
-            <li><a href="/assets/movies.php">Filmographie</a></li>
-            <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="mainArticles.php">Home</a></li>
+            <li><a href="poeme.php">Tribute</a></li>
+            <li><a href="movies.php">Filmographie</a></li>
+            <li><a href="quotes.php">Famous Quotes</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </nav>
@@ -147,6 +148,16 @@
     </aside>
 
 </div>
+
+
+<footer>
+    <div class="footer">
+        <ul class="ul-footer">
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
+        </ul>
+    </div>
+</footer>
 
 </body>
 </html>

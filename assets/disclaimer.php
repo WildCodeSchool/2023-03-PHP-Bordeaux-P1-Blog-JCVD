@@ -13,7 +13,6 @@
 </head>
 
 <body>
-
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -31,10 +30,6 @@
             </ul>
         </nav>
     </div>
-
-    <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
-</div>
 
     <div class="menu-bg" id="menu-bg"></div>
     <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
@@ -64,8 +59,8 @@ Every effort is made to keep the website up and running smoothly. However, our u
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>
