@@ -15,8 +15,7 @@ body {
     background-color: var(--second-bg-color);
     color: var( --second-text-color);
     font-family: var(--font-navbar);
-    width: 100vw;
-    margin-bottom: 20px;
+    max-width: 100vw;
     padding: 15px 0;
     font-size: 14px;
 }

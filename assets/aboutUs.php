@@ -41,7 +41,7 @@
 
 <div class="aboutUs">
     <div id="titleAboutUs">
-        <h1>About us</h1>
+        <h1>A little bit more about ourselves</h1>
     </div>
 
     <div class="teamMembers">

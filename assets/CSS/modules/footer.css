@@ -4,15 +4,17 @@ body{
     flex-direction: column;
 }
 footer{
-margin-top: auto;
+    margin-top: auto;
 }
 
 .footer ul  {
     display: flex;
-    list-style: none;
+   list-style: none;
     justify-content: space-evenly;
     background-color: var(--second-bg-color);
     color: var(--second-text-color);
+    height: 100px;
+    align-items: center;
 }
 
 .footer a   {

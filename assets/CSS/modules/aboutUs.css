@@ -5,6 +5,19 @@ body {
     text-align: center;
 }
 
+.aboutUs  h1  {
+    display: flex;
+    justify-content: center;
+    Margin: 50px 0 60px 0;
+    font-family: var(--font-navbar);
+    color: var(--main-text-color);
+    font-size: 35px;
+}
+
+#nameOne    {
+    margin: 15px;
+}
+
 #photoOne img  {
     height: 200px;
     width: 200px;
@@ -14,8 +27,8 @@ body {
 
 .socialMedia    {
     display: flex;
+    justify-content: center;
     flex-direction: row;
-    justify-content: space-evenly;
     margin: auto;
 }
 
@@ -34,6 +47,7 @@ body {
     justify-content: center;
     margin-top: 50px;
     text-align: justify;
+    margin-bottom: 100px;
 }
 
 .projectExplanation p  {
