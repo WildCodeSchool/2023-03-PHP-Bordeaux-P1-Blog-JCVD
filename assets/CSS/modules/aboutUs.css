@@ -1,5 +1,5 @@
 body {
-    font-family: var(--font-navbar);
+    font-family: var(--font-body);
     color: var(--main-text-color);
     background-color: var(--main-bg-color);
     text-align: center;
@@ -28,6 +28,16 @@ body {
 .linkedIn img   {
     height: 30px;
     width: 30px;
+}
+.projectExplanation {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.projectExplanation p  {
+    width: 60vw;
 }
 
 @media screen and (min-width: 750px) {

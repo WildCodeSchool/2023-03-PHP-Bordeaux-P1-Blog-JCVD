@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
     <link rel="stylesheet" href="/assets/CSS/main.css">
     <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/disclaimer.css">
     <script src="/assets/burgerMenu.js"></script>
     <title>Document</title>
 </head>
