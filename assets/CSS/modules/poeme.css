@@ -1,8 +1,11 @@
 /* Début du CSS pour la page tribute */
+
+
 img{
     width: 100%;
     height: auto;
 }
+
 
 .tribute{
     display: flex;
@@ -32,7 +35,6 @@ blockquote{
     padding: 1em;
     font-size: 1.1em;
 }
-
 
 /*  Style pour l'auteur */
 cite{
