@@ -5,18 +5,37 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="CSS/modules/articles.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/headMainPage.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/articles.css">
     <title>Document</title>
 </head>
+
 <body>
 
+<!-- NAVBAR WITH PHOTO -->
 
-<!--article "landscape" prenant 80% la largeur en mobile version et en version pc 80% de la largeur qui reste apres la side bar  -->
+<nav class="firstNavBar">
+    <div class="navBar">
+        <ul>
+            <li><a href="/assets/mainArticles.php">Home</a></li>
+            <li><a href="/assets/poeme.php">Tribute</a></li>
+            <li><a href="/assets/movies.php">Filmographie</a></li>
+            <li><a href="/assets/quotes.php">Famous Quotes</a></li>
+            <li><a href="/assets/aboutUs.php">About us</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div class="mainImage">
+    <img src="/assets/images/homeJCVD2.jpg" alt="Jean Claude van Damme fait un split">
+</div>
+
+<!--articles -->
 <div class="containerMain">
     <div class="containerArticles">
 
     <!-- article 3 roles marquants  -->
-    <card class="cardArticle">
+        <card class="cardArticle">
         <div class="containerImageArticle">
             <a href="https://www.rtbf.be/article/retour-sur-trois-roles-marquants-dans-la-carriere-du-cultissime-jcvd-11164494" target="_blank">
                 <img src="../assets/images/3rolesMarquants.jpeg" alt="Triptyque des rôles marquants de JCVD" class="imageArticle">
@@ -32,7 +51,7 @@
     </card>
 
     <!-- article Prédator  -->
-    <card class="cardArticle">
+        <card class="cardArticle">
         <div class="containerImageArticle">
             <a href="https://www.ecranlarge.com/films/news/1070550-predator-jean-claude-van-damme-explique-les-vraies-raisons-de-son-depart-du-film" target="_blank">
                 <img src="../assets/images/predatorJCVD.webp" alt="Photo du Prédator" class="imageArticle">
@@ -48,7 +67,7 @@
     </card>
 
     <!-- article Chuck Norris  -->
-    <card class="cardArticle smallCard">
+        <card class="cardArticle smallCard">
         <div class="containerImageArticle">
             <a href="https://www.voici.fr/news-people/actu-people/il-mattaque-je-fais-un-coup-de-pied-retourne-jean-claude-van-damme-raconte-sa-rencontre-memorable-avec-chuck-norris-706917" target="_blank">
                 <img src="../assets/images/chucknorrisJCVD.jpeg" alt="Photo montage de Chuck Norris devant JCVD avant un combat" class="imageArticle">
@@ -64,7 +83,7 @@
     </card>
 
     <!-- article Racisme  -->
-    <card class="cardArticle smallCard">
+        <card class="cardArticle smallCard">
         <div class="containerImageArticle">
             <a href="https://www.voici.fr/news-people/actu-people/jean-claude-van-damme-son-incroyable-technique-pour-contrer-le-racisme-dhollywood-envers-son-ami-708223" target="_blank">
                 <img src="../assets/images/racismeHollywwod.jpeg" alt="Photo montage de Tong Po maquillé en asiatique et de JVCD, en position de combat" class="imageArticle">
@@ -73,14 +92,14 @@
                 <p class="credit">Par La Rédaction pour Voici.fr - Le 15 juillet 2021</p>
             </div>
         </div>
-        <div class="descriptionArticleArticle">
-            <h2>Son incroyable technique pour contrer le racisme d’Hollywood envers son ami</h2>
+        <div class="descriptionArticle">
+            <h2>Son incroyable technique pour contrer le racisme de Hollywood envers son ami</h2>
             <p>Que serait Kickboxer sans son méchant, Tong Po ? Incarné par Mohamed Qissi, le producteur n'en voulait pas. Mais son ami JCVD a réussi à le faire recruter quand même.</p>
         </div>
     </card>
 
     <!-- article Mortal Kombat  -->
-    <card class="cardArticle smallCard">
+        <card class="cardArticle smallCard">
         <div class="containerImageArticle">
             <a href="https://www.cineserie.com/tv-vod/bloodsport-sur-amazon-prime-video-comment-le-film-a-inspire-le-jeu-video-mortal-kombat-3798456/" target="_blank">
                 <img src="../assets/images/bloodsport_mortal_kombat.jpeg" alt="Scène de combat dans le film Bloodsport" class="imageArticle">
@@ -96,7 +115,7 @@
     </card>
 
     <!-- article AaRON Ultrarêve  -->
-    <card class="cardArticle smallCard">
+        <card class="cardArticle smallCard">
         <div class="containerImageArticle">
             <a href="https://www.lefigaro.fr/musique/pour-ultrareve-son-nouveau-titre-aaron-fait-danser-jean-claude-van-damme-20200828" target="_blank">
                 <img src="../assets/images/UltrareveJCVD.png" alt="JCVD en train de danser dans le clip d'Aaron" class="imageArticle">
@@ -114,21 +133,20 @@
 
 
     <!-- block aside avec 3 liens vers des articles récents  -->
-    <aside class="asideStatic containerAside">
-    <h2>TOP 3</h2>
-    <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
-            <p><strong>Avec la sècheresse, cette mémorable interview refait surface</strong></p>
-    </a>
-    <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
-            <p><strong>Article 2 à modifier le lien et le titre</strong></p>
-    </a>
-    <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
-            <p><strong>Article 3 à modifier le lien et le titre</strong></p>
-    </a>
-</aside>
+    <aside class="containerAsideSticky">
+        <h2>TOP 3</h2>
+        <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
+            <p><strong>💦 Avec la sècheresse, cette mémorable interview refait surface</strong></p>
+        </a>
+        <a href="https://www.lemonde.fr/m-le-mag/article/2021/07/16/stallone-reve-de-mourir-en-vedette-moi-pas-les-questions-existentielles-de-jean-claude-van-damme_6088485_4500055.html" class="top3" target="_blank">
+            <p><strong>🎬 Stallone rêve de mourir en vedette, pas moi !</strong></p>
+        </a>
+        <a href="https://www.gqmagazine.fr/pop-culture/article/11-choses-que-vous-ignoriez-sur-jean-claude-van-damme" class="top3" target="_blank">
+            <p><strong>🧐 11 choses que vous ignoriez sur Jean-Claude Van Damme</strong></p>
+        </a>
+    </aside>
 
 </div>
-
 
 </body>
 </html>
