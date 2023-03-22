@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SPLITTER_PROPORTION" value="0.57123476" />
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af8ef3d-b7a8-498e-96f4-26ddf357c923" name="Changes" comment="" />
+    <list default="true" id="4f07ea34-3833-4e55-adfc-fac96c579a1e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,12 +19,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.2" />
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectId" id="2N2oMiVuaEWrAFFK6oSYa8QslIV" />
+  <component name="ProjectId" id="2NJjvY1Z7Xjc1AEXkEZPXat0YQR" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -37,19 +30,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/CSS/modules" />
@@ -57,13 +48,16 @@
       <recent name="$PROJECT_DIR$/assets/CSS" />
     </key>
   </component>
+=======
+>>>>>>> 1abee04b2cc7fbf43027102dc2d35eeab78bc653
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3af8ef3d-b7a8-498e-96f4-26ddf357c923" name="Changes" comment="" />
-      <created>1678871491933</created>
+      <changelist id="4f07ea34-3833-4e55-adfc-fac96c579a1e" name="Changes" comment="" />
+      <created>1679389324593</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1678871491933</updated>
       <workItem from="1678871493116" duration="25667000" />
       <workItem from="1678914670808" duration="42000" />
@@ -76,13 +70,14 @@
       <workItem from="1679143035845" duration="20425000" />
       <workItem from="1679243067951" duration="140000" />
       <workItem from="1679327103477" duration="6207000" />
+=======
+      <updated>1679389324593</updated>
+      <workItem from="1679389324730" duration="2236000" />
+>>>>>>> 1abee04b2cc7fbf43027102dc2d35eeab78bc653
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

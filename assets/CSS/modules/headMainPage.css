@@ -7,13 +7,13 @@
 }
 
 .firstNavBar {
-    background-color: #655151;
+    background-color: var(--second-bg-color);
 }
 
 .firstNavBar a   {
     text-decoration: none;
-    font-family: 'Michroma', sans-serif;
-    color: #efe9ea;
+    font-family: var(--font-navbar);
+    color: var(--second-text-color);
 }
 
 .firstNavBar ul  {
@@ -25,4 +25,15 @@
 
 .mainImage img  {
     width: 100vw;
+}
+
+@media screen and (max-width: 500px) {
+    .firstNavBar ul     {
+        flex-wrap: wrap;
+        padding: 5px;
+    }
+    .firstNavBar a  {
+        margin: 10px;
+        font-size: x-small;
+    }
 }

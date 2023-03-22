@@ -6,9 +6,11 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
+    <link rel="stylesheet" href="/assets/CSS/main.css">
     <link rel="stylesheet" href="/assets/CSS/modules/aboutUs.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
     <script src="/assets/burgerMenu.js"></script>
-    <title>Document</title>
+    <title>About Us</title>
 </head>
 
 <body>
@@ -35,6 +37,9 @@
     <h1 class="textTitle">JEAN CLAUDE VAN DAMME</h1>
 </div>
 
+
+<!-- MEMBERS IN THE PROJECT AND THE SOCIAL PLATFORM LINKS -->
+
 <div class="aboutUs">
     <div id="titleAboutUs">
         <h1>About us</h1>
@@ -54,13 +59,13 @@
 
             <div class="socialMedia">
                 <div>
-                    <a href="http://www.google.com">
+                    <a href="https://www.linkedin.com/in/tomas-spit-2285b3267/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
                 <div>
-                    <a href="http://www.bing.com">
+                    <a href="https://github.com/Tomasspit2" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
                 </div>
@@ -69,7 +74,7 @@
 
         <div id="Aurelie">
             <div id="photoOne">
-                <img src="/assets/images/profilePhoto.jpg" alt="Profile Photo">
+                <img src="/assets/images/profilePhotoAurelie.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
                 <p>Aurélie Lozach <br/>
@@ -78,13 +83,13 @@
             </div>
             <div class="socialMedia">
                 <div>
-                    <a href="http://www.google.com">
+                    <a href="https://www.linkedin.com/in/aurelielozach/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
                 <div>
-                    <a href="http://www.bing.com">
+                    <a href="https://github.com/caudrel" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
                 </div>
@@ -93,7 +98,7 @@
 
         <div id="Estephe">
             <div id="photoOne">
-                <img src="/assets/images/profilePhoto.jpg" alt="Profile Photo">
+                <img src="/assets/images/profilePhotoEstephe.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
                 <p>Estèphe Fath <br/>
@@ -102,13 +107,13 @@
             </div>
             <div class="socialMedia">
                 <div>
-                    <a href="http://www.google.com">
+                    <a href="https://www.linkedin.com/in/est%C3%A8phe-fath-1b5455223/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
                 <div>
-                    <a href="http://www.bing.com">
+                    <a href="https://github.com/EstepheFath" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
                 </div>
@@ -127,13 +132,13 @@
             </div>
             <div class="socialMedia">
                 <div>
-                    <a href="http://www.google.com">
+                    <a href="https://www.linkedin.com/in/maxime-gonotey-29085a26a/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
                 <div>
-                    <a href="http://www.bing.com">
+                    <a href="https://github.com/Mgg24">
                         <img src="/assets/images/githubLogo.png">
                     </a>
                 </div>
@@ -162,6 +167,17 @@
         </p>
     </div>
 </div>
+<link rel="stylesheet" href="/assets/CSS/modules/footer.css">
+
+
+<footer>
+    <div class="footer">
+        <ul class="ul-footer">
+            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
+            <li><a href="/assets/aboutUs.php">About us</a></li>
+        </ul>
+    </div>
+</footer>
 
 </body>
 </html>
