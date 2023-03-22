@@ -13,26 +13,26 @@
     <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
     <script src="/assets/burgerMenu.js"></script>
 </head>
-
-<body>
-    <div class="nameBar">
-        <div id="menu">
-            <div id="menu-bar" onclick="menuOnClick()">
-                <div id="bar1" class="bar"></div>
-                <div id="bar2" class="bar"></div>
-                <div id="bar3" class="bar"></div>
-            </div>
-            <nav class="nav" id="nav">
-                <ul>
-                    <li><a href="/assets/mainArticles.php">Home</a></li>
-                    <li><a href="/assets/poeme.php">Tribute</a></li>
-                    <li><a href="/assets/movies.php">Filmographie</a></li>
-                    <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                    <li><a href="/assets/aboutUs.php">About us</a></li>
-                </ul>
-            </nav>
+<div class="nameBar">
+    <div id="menu">
+        <div id="menu-bar" onclick="menuOnClick()">
+            <div id="bar1" class="bar"></div>
+            <div id="bar2" class="bar"></div>
+            <div id="bar3" class="bar"></div>
         </div>
+        <nav class="nav" id="nav">
+            <ul>
+                <li><a href="/assets/mainArticles.php">Home</a></li>
+                <li><a href="/assets/poeme.php">Tribute</a></li>
+                <li><a href="/assets/movies.php">Filmographie</a></li>
+                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
+                <li><a href="/assets/aboutUs.php">About us</a></li>
+            </ul>
+        </nav>
     </div>
+</div>
+<body>
+
 
 <div class="tribute">
     <div class="blockquotes">
