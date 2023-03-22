@@ -19,11 +19,11 @@
         </div>
         <nav class="nav" id="nav">
             <ul>
-                <li><a href="/assets/mainArticles.php">Home</a></li>
-                <li><a href="/assets/poeme.php">Tribute</a></li>
-                <li><a href="/assets/movies.php">Filmographie</a></li>
-                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                <li><a href="/assets/aboutUs.php">About us</a></li>
+                <li><a href="mainArticles.php">Home</a></li>
+                <li><a href="poeme.php">Tribute</a></li>
+                <li><a href="movies.php">Filmographie</a></li>
+                <li><a href="quotes.php">Famous Quotes</a></li>
+                <li><a href="aboutUs.php">About us</a></li>
             </ul>
         </nav>
     </div>
