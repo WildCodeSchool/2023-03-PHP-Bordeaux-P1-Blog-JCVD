@@ -14,7 +14,6 @@
 </head>
 
 <body>
-
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -24,19 +23,19 @@
         </div>
         <nav class="nav" id="nav">
             <ul>
-                <li><a href="/assets/mainArticles.php">Home</a></li>
-                <li><a href="/assets/poeme.php">Tribute</a></li>
-                <li><a href="/assets/movies.php">Filmographie</a></li>
-                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                <li><a href="/assets/aboutUs.php">About us</a></li>
+                <li><a href="mainArticles.php">Home</a></li>
+                <li><a href="poeme.php">Tribute</a></li>
+                <li><a href="movies.php">Filmographie</a></li>
+                <li><a href="quotes.php">Famous Quotes</a></li>
+                <li><a href="aboutUs.php">About us</a></li>
             </ul>
         </nav>
     </div>
 
     <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME</h1>
-</div>
 
+    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
+</div>
 
 <!-- MEMBERS IN THE PROJECT AND THE SOCIAL PLATFORM LINKS -->
 

@@ -13,12 +13,11 @@ body {
 .nameBar {
     position: sticky;
     top: 0;
-    position: -webkit-sticky;
     background-color: var(--second-bg-color);
     color: var( --second-text-color);
     width: 100vw;
     margin-bottom: 20px;
-    padding: 15px;
+    padding: 15px 0 15px 0;
     font-size: 14px;
 }
 
