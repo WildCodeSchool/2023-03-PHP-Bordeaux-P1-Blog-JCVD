@@ -7,7 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af8ef3d-b7a8-498e-96f4-26ddf357c923" name="Changes" comment="" />
+    <list default="true" id="3af8ef3d-b7a8-498e-96f4-26ddf357c923" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/headMainPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/headMainPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CSS/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CSS/modules/defilement_quote.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/CSS/modules/defilement_quote.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/defilement_quote.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/defilement_quote.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +58,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/CSS/modules" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/CSS" />
     </key>
@@ -70,7 +77,11 @@
       <workItem from="1678964946750" duration="5062000" />
       <workItem from="1678978966460" duration="5467000" />
       <workItem from="1679052950740" duration="9644000" />
-      <workItem from="1679066527731" duration="3391000" />
+      <workItem from="1679066527731" duration="3959000" />
+      <workItem from="1679071231168" duration="56000" />
+      <workItem from="1679143035845" duration="20425000" />
+      <workItem from="1679243067951" duration="140000" />
+      <workItem from="1679327103477" duration="5104000" />
     </task>
     <servers />
   </component>
