@@ -29,5 +29,21 @@
     </div>
 
     <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
+
+    <h1 class="message"> .. </h1>
+    <span class="slides">
+        <span class="slide1 ">
+            <span>JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG </span>
+            <span>Quand je demande une question, tu sais à qui je demande ? Moi.</span>
+            <span>Je crois en Dieu. Y'a Jean-Claude, y'a Dieu, dans le même corps. We are all one.</span>
+            <span>Entre penser et dire, il y a un monde de différences (et ils sont près!).</span>
+            <span>Ma devise, c'est toujours : se recréer. Il faut se recréer. Pour recréer. A better you.</span>
+            <span>Et ça, c'est très dur ! Et, et, et, et. C'est très facile en même temps.</span>
+            <span>Mon modèle, c'est moi-même! </span>
+            <span>Je crois au moment. S'il n'y a pas le moment, à ce moment-là, il faut arriver à ce moment-là, au moment qu'on veut.</span>
+            <span>Marcel Proust, oui. Un peu comme moi. Longtemps il s'est couché aware.</span>
+            <span>Une femme qui est enceinte, par exemple, elle est aware qu'elle attend un enfant.</span>
+            <span>Une noisette, j'la casse entre mes fesses tu vois.</span>
+        </span>
+    </span>
 </div>
