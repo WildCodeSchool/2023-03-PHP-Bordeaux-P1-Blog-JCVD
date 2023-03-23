@@ -1,8 +1,21 @@
 body {
-    font-family: var(--font-navbar);
+    font-family: var(--font-body);
     color: var(--main-text-color);
     background-color: var(--main-bg-color);
     text-align: center;
+}
+
+.aboutUs  h1  {
+    display: flex;
+    justify-content: center;
+    Margin: 50px 0 60px 0;
+    font-family: var(--font-navbar);
+    color: var(--main-text-color);
+    font-size: 35px;
+}
+
+#nameOne    {
+    margin: 15px;
 }
 
 #photoOne img  {
@@ -14,20 +27,33 @@ body {
 
 .socialMedia    {
     display: flex;
+    justify-content: center;
     flex-direction: row;
-    justify-content: space-evenly;
     margin: auto;
 }
 
 .socialMedia img    {
     height: 30px;
     width: 30px;
+    margin-right: 10px;
+
+}
+
+.hover:hover  {
+    opacity: 0.5;
 }
 
 
-.linkedIn img   {
-    height: 30px;
-    width: 30px;
+.projectExplanation {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: justify;
+    margin-bottom: 100px;
+}
+
+.projectExplanation p  {
+    width: 60vw;
 }
 
 @media screen and (min-width: 750px) {

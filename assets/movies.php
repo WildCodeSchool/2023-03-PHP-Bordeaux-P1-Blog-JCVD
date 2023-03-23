@@ -11,9 +11,6 @@
 <link rel="stylesheet" href="CSS/modules/headOtherPages.css">
 <link rel="stylesheet" href="CSS/modules/footer.css">
 <script src="burgerMenu.js"></script>
-<style>
-    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
-</style>
 </head>
 
 <body>
@@ -26,11 +23,11 @@
         </div>
         <nav class="nav" id="nav">
             <ul>
-                <li><a href="/assets/mainArticles.php">Home</a></li>
-                <li><a href="/assets/poeme.php">Tribute</a></li>
-                <li><a href="/assets/movies.php">Filmographie</a></li>
-                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                <li><a href="/assets/aboutUs.php">About us</a></li>
+                <li><a href="mainArticles.php">Home</a></li>
+                <li><a href="poeme.php">Tribute</a></li>
+                <li><a href="movies.php">Filmographie</a></li>
+                <li><a href="quotes.php">Famous Quotes</a></li>
+                <li><a href="aboutUs.php">About us</a></li>
             </ul>
         </nav>
     </div>
@@ -124,8 +121,8 @@
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>

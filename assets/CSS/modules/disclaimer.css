@@ -1,0 +1,9 @@
+.Disclaimer {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+    text-align: justify;
+    font-family: var(--font-body);
+
+}
+

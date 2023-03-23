@@ -8,12 +8,12 @@
     <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
     <link rel="stylesheet" href="/assets/CSS/main.css">
     <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/disclaimer.css">
     <script src="/assets/burgerMenu.js"></script>
     <title>Document</title>
 </head>
 
 <body>
-
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -23,11 +23,11 @@
         </div>
         <nav class="nav" id="nav">
             <ul>
-                <li><a href="/assets/mainArticles.php">Home</a></li>
-                <li><a href="/assets/poeme.php">Tribute</a></li>
-                <li><a href="/assets/movies.php">Filmographie</a></li>
-                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                <li><a href="/assets/aboutUs.php">About us</a></li>
+                <li><a href="mainArticles.php">Home</a></li>
+                <li><a href="poeme.php">Tribute</a></li>
+                <li><a href="movies.php">Filmographie</a></li>
+                <li><a href="quotes.php">Famous Quotes</a></li>
+                <li><a href="aboutUs.php">About us</a></li>
             </ul>
         </nav>
     </div>
@@ -60,8 +60,8 @@ Every effort is made to keep the website up and running smoothly. However, our u
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>

@@ -13,6 +13,8 @@
     <title>Famous Quotes</title>
 </head>
 
+<body>
+
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -22,22 +24,43 @@
         </div>
         <nav class="nav" id="nav">
             <ul>
-                <li><a href="/assets/mainArticles.php">Home</a></li>
-                <li><a href="/assets/poeme.php">Tribute</a></li>
-                <li><a href="/assets/movies.php">Filmographie</a></li>
-                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                <li><a href="/assets/aboutUs.php">About us</a></li>
+                <li><a href="mainArticles.php">Home</a></li>
+                <li><a href="poeme.php">Tribute</a></li>
+                <li><a href="movies.php">Filmographie</a></li>
+                <li><a href="quotes.php">Famous Quotes</a></li>
+                <li><a href="aboutUs.php">About us</a></li>
             </ul>
         </nav>
     </div>
 
     <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
 
+    <!-- <h1 class="message"> .. </h1>
+    <span class="slides">
+        <span class="slide1">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG </span
+        <span class="slide2">Quand je demande une question, tu sais à qui je demande ? Moi.</span>
+        <span class="slide3">Je crois en Dieu. Y'a Jean-Claude, y'a Dieu, dans le même corps. We are all one.</span>
+        <span class="slide4">Entre penser et dire, il y a un monde de différences (et ils sont près!).</span>
+        <span class="slide5">Ma devise, c'est toujours : se recréer. Il faut se recréer. Pour recréer. A better you.</span>
+        <span class="slide6">Et ça, c'est très dur ! Et, et, et, et. C'est très facile en même temps.</span>
+        <span class="slide7">Mon modèle, c'est moi-même! </span>
+        <span class="slide8">Je crois au moment. S'il n'y a pas le moment, à ce moment-là, il faut arriver à ce moment-là, au moment qu'on veut.</spanv>
+        <span class="slide9">Marcel Proust, oui. Un peu comme moi. Longtemps il s'est couché aware.</span>
+        <span class="slide10">Une femme qui est enceinte, par exemple, elle est aware qu'elle attend un enfant.</span>
+        <span class="slide11">Une noisette, j'la casse entre mes fesses tu vois.</span>
+    </span> -->
+
+    <h1>JEAN CLAUDE VAN DAMME THE UNOFFICIAL BLOG</h1>
 </div>
+
+<div class="TitleQuotes">
+    <h1>Some of the best quotes of JCVD</h1>
+</div>
+
 <!-- Qoute 1 -->
 
 <div class="parentQuotes">
+
 <div class="quoteOne">
     <div class="videoOne">
         <iframe src="https://www.youtube.com/embed/PZskaNIPINQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -131,8 +154,8 @@
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>

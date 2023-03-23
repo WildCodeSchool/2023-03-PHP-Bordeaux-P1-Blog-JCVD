@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/CSS/modules/headMainPage.css">
+    <link rel="stylesheet" href="/assets/CSS/modules/articles.css">
     <title>Document</title>
 </head>
 
@@ -14,11 +15,11 @@
  <nav class="firstNavBar">
      <div class="navBar">
         <ul>
-            <li><a href="/assets/mainArticles.php">Home</a></li>
-            <li><a href="/assets/poeme.php">Tribute</a></li>
-            <li><a href="/assets/movies.php">Filmographie</a></li>
-            <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="mainArticles.php">Home</a></li>
+            <li><a href="poeme.php">Tribute</a></li>
+            <li><a href="movies.php">Filmographie</a></li>
+            <li><a href="quotes.php">Famous Quotes</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
      </div>
       </nav>

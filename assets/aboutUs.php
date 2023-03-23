@@ -6,15 +6,14 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/assets/CSS/modules/headOtherPages.css">
-    <link rel="stylesheet" href="/assets/CSS/main.css">
     <link rel="stylesheet" href="/assets/CSS/modules/aboutUs.css">
     <link rel="stylesheet" href="/assets/CSS/modules/footer.css">
     <script src="/assets/burgerMenu.js"></script>
+    <link rel="stylesheet" href="/assets/CSS/main.css">
     <title>About Us</title>
 </head>
 
 <body>
-
 <div class="nameBar">
     <div id="menu">
         <div id="menu-bar" onclick="menuOnClick()">
@@ -24,32 +23,32 @@
         </div>
         <nav class="nav" id="nav">
             <ul>
-                <li><a href="/assets/mainArticles.php">Home</a></li>
-                <li><a href="/assets/poeme.php">Tribute</a></li>
-                <li><a href="/assets/movies.php">Filmographie</a></li>
-                <li><a href="/assets/quotes.php">Famous Quotes</a></li>
-                <li><a href="/assets/aboutUs.php">About us</a></li>
+                <li><a href="mainArticles.php">Home</a></li>
+                <li><a href="poeme.php">Tribute</a></li>
+                <li><a href="movies.php">Filmographie</a></li>
+                <li><a href="quotes.php">Famous Quotes</a></li>
+                <li><a href="aboutUs.php">About us</a></li>
             </ul>
         </nav>
     </div>
 
     <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME</h1>
-</div>
 
+    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
+</div>
 
 <!-- MEMBERS IN THE PROJECT AND THE SOCIAL PLATFORM LINKS -->
 
 <div class="aboutUs">
     <div id="titleAboutUs">
-        <h1>About us</h1>
+        <h1>A little bit more about ourselves</h1>
     </div>
 
     <div class="teamMembers">
 
         <div id="Tomas">
             <div id="photoOne">
-                <img src="/assets/images/profilePhoto.jpg" alt="Profile Photo">
+                <img src="/assets/images/profilePictureTomas.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
                 <p>Tomas Spit <br/>
@@ -58,13 +57,13 @@
             </div>
 
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/tomas-spit-2285b3267/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/Tomasspit2" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -74,7 +73,7 @@
 
         <div id="Aurelie">
             <div id="photoOne">
-                <img src="/assets/images/profilePhoto.jpg" alt="Profile Photo">
+                <img src="/assets/images/profilePhotoAurelie.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
                 <p>Aurélie Lozach <br/>
@@ -82,13 +81,13 @@
                     PHP Symphony</p>
             </div>
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/aurelielozach/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/caudrel" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -106,13 +105,13 @@
                 PHP Symphony</p>
             </div>
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/est%C3%A8phe-fath-1b5455223/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/EstepheFath" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -122,22 +121,22 @@
 
         <div id="Maxime">
             <div id="photoOne">
-                <img src="/assets/images/profilePhoto.jpg" alt="Profile Photo">
+                <img src="/assets/images/profilePictureMaxime.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
-                <p>Maxime Gonotey-Grimoux
+                <p>Maxime Gonotey
                     <br/>
                     Full stack Developper <br>
                     PHP Symphony</p>
             </div>
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/maxime-gonotey-29085a26a/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/Mgg24">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -151,19 +150,20 @@
     <div class="projectExplanation">
         <p>
             This project has been created by the four of us, as an assignment during our study becoming fullstack Web Developpers.
-        This is our first of 3 projects during our study.
-        We used HTML and CSS to create this blog.
-        On this page you can find links to our LinkedIn and GitHub profiles.
+            <br>
+        This is our first of 3 projects during our study. <br>
+        We used HTML and CSS to create this blog. <br>
+        On this page you can find links to our LinkedIn and GitHub profiles. <br>
         We really enjoyed working on this project. It was our first
-        real experience in putting everything we learned in to practice.
+        real experience in putting everything we learned in to practice. <br>
         We were assigned the group name: JCVD, and got the assignment to create a blog
         of articles. We decided to use our group name as the subject of the blog.
-        So we created this blog all about the great Jean Claude van Damme.
+        So we created this blog all about the great Jean Claude van Damme. <br>
         We are not die hard fans, but the subject is still very interesting and we had
-        a good laugh while creating the blog.
-        Don't hesitate to contact us for further questions or information.
+        a good laugh while creating the blog. <br>
+        Don't hesitate to contact us for further questions or information. <br><br>
 
-        P.S. Jean Claude van Damme, if you ever happen to read this, keep up the good work!
+        P.S. Jean Claude van Damme, if you ever happen to read this, keep up the good work! <br><br>
         </p>
     </div>
 </div>
@@ -173,8 +173,8 @@
 <footer>
     <div class="footer">
         <ul class="ul-footer">
-            <li><a href="/assets/disclaimer.php">Disclaimer</a></li>
-            <li><a href="/assets/aboutUs.php">About us</a></li>
+            <li><a href="disclaimer.php">Disclaimer</a></li>
+            <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
 </footer>

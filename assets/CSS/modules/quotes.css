@@ -1,9 +1,21 @@
 /* CSS FOR THE QUOTES SECTION */
 
+.TitleQuotes    {
+    display: flex;
+    justify-content: center;
+    Margin: 50px 0 60px 0;
+    font-family: var(--font-navbar);
+    color: var(--main-text-color);
+}
+
+.TitleQuotes h1 {
+    font-size: 32px;
+}
+
 /* CSS PROPERTIES FOR THE VIDEO */
 iframe {
-    width: 560px;
-    height: 315px;
+    width:635px;
+    height: 375px;
 }
 
 /* CSS PROPERTIES FOR THE DIV CONTAINING THE QUOTES*/
@@ -16,15 +28,20 @@ iframe {
     flex-wrap: wrap;
 }
 
+.parentQuotes p {
+    margin-bottom: 10px;
+}
+
 /* CSS PROPERTIES FOR THE QUOTE CARDS */
 .quoteOne {
     background-color: var(--main-bg-color);
     color: var(--main-text-color);
+    font-family: var(--font-body);
     display: flex;
     flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
-    margin-bottom: 40px;
+    margin-bottom: 110px;
 }
 
 
@@ -36,7 +53,7 @@ iframe {
     flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
-    margin-bottom: 40px;
+    margin-bottom: 110px;
 }
 
 
@@ -47,7 +64,7 @@ iframe {
     flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
-    margin-bottom: 40px;
+    margin-bottom: 110px;
 }
 
 .quoteFour  {
@@ -57,7 +74,7 @@ iframe {
     flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
-    margin-bottom: 40px;
+    margin-bottom: 110px;
 }
 
 
@@ -68,7 +85,7 @@ iframe {
     flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
-    margin-bottom: 40px;
+    margin-bottom: 150px;
 }
 
 .quoteSix   {
@@ -78,7 +95,7 @@ iframe {
     flex-direction: column;
     text-align: center;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
-    margin-bottom: 40px;
+    margin-bottom: 150px;
 }
 
 /* CSS PROPERTIES FOR THE MEDIA QUERIES*/
