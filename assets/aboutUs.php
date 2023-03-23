@@ -57,13 +57,13 @@
             </div>
 
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/tomas-spit-2285b3267/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/Tomasspit2" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -81,13 +81,13 @@
                     PHP Symphony</p>
             </div>
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/aurelielozach/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/caudrel" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -105,13 +105,13 @@
                 PHP Symphony</p>
             </div>
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/est%C3%A8phe-fath-1b5455223/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/EstepheFath" target="_blank">
                         <img src="/assets/images/githubLogo.png">
                     </a>
@@ -124,19 +124,19 @@
                 <img src="/assets/images/profilePictureMaxime.jpg" alt="Profile Photo">
             </div>
             <div id="nameOne">
-                <p>Maxime Gonotey-Grimoux
+                <p>Maxime Gonotey
                     <br/>
                     Full stack Developper <br>
                     PHP Symphony</p>
             </div>
             <div class="socialMedia">
-                <div>
+                <div class="hover">
                     <a href="https://www.linkedin.com/in/maxime-gonotey-29085a26a/" target="_blank">
                         <img src="/assets/images/174857.png">
                     </a>
                 </div>
 
-                <div>
+                <div class="hover">
                     <a href="https://github.com/Mgg24">
                         <img src="/assets/images/githubLogo.png">
                     </a>

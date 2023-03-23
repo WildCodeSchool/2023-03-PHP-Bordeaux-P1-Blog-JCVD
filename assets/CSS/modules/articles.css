@@ -1,13 +1,12 @@
 @import "/assets/CSS/main.css";
 
 .containerMain{
-    width: 100vw;
     height: 100%;
     font-family: var(--font-body);
 }
 
 .containerArticles {
-    width: 90vw;
+    max-width: 90vw;
     height: 100vh;
     margin: 10px auto;
     display: flex;
@@ -15,7 +14,7 @@
 }
 
 .cardArticle {
-    width: 100%;
+    max-width: 100%;
     height: 47vh;
     box-shadow: 0 4px 8px 0 rgba(101, 81, 81,.2), 0 6px 20px 0 rgba(101, 81, 81,.2);
     padding: 5px 10px;
@@ -29,7 +28,7 @@
 }
 
 .imageArticle {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     scale: 1.05;
     opacity: 1;
@@ -161,7 +160,7 @@
 @media screen and (min-width: 769px) {
 
     .containerMain {
-        margin: 20px auto;
+        margin: 20px 0;
     }
 
     .containerArticles h2 {
@@ -248,7 +247,7 @@
 
     .containerAsideSticky{
         height: 60vh;
-        margin-right: 30px;
+        margin-right: 0;
     }
 
     aside h2{

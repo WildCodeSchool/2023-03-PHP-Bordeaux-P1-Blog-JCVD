@@ -15,9 +15,9 @@
 <body>
 <!-- NAVBAR WITH PHOTO -->
 
-<nav class="firstNavBar">
+<div class="firstNavBar">
     <div class="navBar">
-        <ul>
+        <ul class="menu">
             <li><a href="mainArticles.php">Home</a></li>
             <li><a href="poeme.php">Tribute</a></li>
             <li><a href="movies.php">Filmographie</a></li>
@@ -25,7 +25,7 @@
             <li><a href="aboutUs.php">About us</a></li>
         </ul>
     </div>
-</nav>
+</div>
 
 <div class="mainImage">
     <img src="/assets/images/homeJCVD3.jpg" alt="Jean Claude van Damme fait un split">
@@ -135,7 +135,7 @@
 
     <!-- block aside avec 3 liens vers des articles récents  -->
     <aside class="containerAsideSticky">
-        <h2>TOP 3</h2>
+        <h2>TOP 3 des articles</h2>
         <a href="https://fr.news.yahoo.com/s%C3%A9cheresse-interview-jean-claude-van-135458344.html" class="top3" target="_blank">
             <p><strong>💦 Avec la sècheresse, cette mémorable interview refait surface</strong></p>
         </a>

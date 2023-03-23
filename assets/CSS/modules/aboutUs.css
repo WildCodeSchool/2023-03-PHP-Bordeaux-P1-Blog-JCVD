@@ -35,13 +35,15 @@ body {
 .socialMedia img    {
     height: 30px;
     width: 30px;
+    margin-right: 10px;
+
+}
+
+.hover:hover  {
+    opacity: 0.5;
 }
 
 
-.linkedIn img   {
-    height: 30px;
-    width: 30px;
-}
 .projectExplanation {
     display: flex;
     justify-content: center;
