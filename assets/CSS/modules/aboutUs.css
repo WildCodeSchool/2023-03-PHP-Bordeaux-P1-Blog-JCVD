@@ -6,8 +6,12 @@ body {
 }
 
 .title  {
-    font-size: 15px;
+    font-size: 25px;
     padding: 35px;
+    max-width: 90%;
+}
+.aboutUs    {
+    font-size: 20px;
 }
 
 .aboutUs  h1  {
@@ -22,6 +26,8 @@ body {
 #nameOne    {
     margin: 15px;
 }
+
+
 
 #photoOne img  {
     height: 200px;
@@ -59,7 +65,8 @@ body {
 }
 
 .projectExplanation p  {
-    width: 60vw;
+    width: 70vw;
+    font-size: 22px;
 }
 
 @media screen and (min-width: 750px) {

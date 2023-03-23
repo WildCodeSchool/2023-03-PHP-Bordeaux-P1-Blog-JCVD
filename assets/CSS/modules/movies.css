@@ -20,8 +20,9 @@ body{
 }
 
 .title  {
-    font-size: 15px;
+    font-size: 25px;
     padding: 35px;
+    max-width: 90%;
     text-align: center;
 }
 
