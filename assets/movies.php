@@ -79,7 +79,7 @@
             </div>
         </div>
         <!--Street-Fighter-->
-        <div class="Kickboxer">
+        <div class="street-fighter">
             <div class="img-streetfight">
                 <img src="images/StreetFighter.jpg" alt="Affiche du film Streetfighter">
             </div>
