@@ -124,13 +124,13 @@
 
 <div class="quoteSix">
     <div class="videoSix">
-        <iframe src="https://www.youtube.com/embed/yNQWs-mdhoE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/O7R_ELFOJ9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="textVideoSix">
-        <h1>"Math with JCVD"</h1>
+        <h1>"Life is a dick!"</h1>
         <br/>
         <p>
-            If everybody would count this way the world would probably be a better place!
+           A real JCVD way of seeing life.
         </p>
     </div>
 </div>
