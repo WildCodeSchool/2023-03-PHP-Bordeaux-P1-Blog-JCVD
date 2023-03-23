@@ -33,7 +33,7 @@
     </div>
 
     <div class="menu-bg" id="menu-bg"></div>
-    <h1 class="textTitle">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
+    <h1 class="title">JEAN CLAUDE VAN DAMME - UNOFFICIAL BLOG</h1>
 </div>
 
 <div class="Disclaimer">
@@ -65,6 +65,36 @@ Every effort is made to keep the website up and running smoothly. However, our u
         </ul>
     </div>
 </footer>
+
+<script>
+    let title = document.querySelector(".title")
+    let quotes = ["Quand je demande une question, tu sais à qui je demande ? Moi.",
+        "Je crois en Dieu. Y'a Jean-Claude, y'a Dieu, dans le même corps. We are all one.",
+        "Entre penser et dire, il y a un monde de différences (et ils sont près!).",
+        "Ma devise, c'est toujours : se recréer. Il faut se recréer. Pour recréer. A better you.",
+        "Et ça, c'est très dur ! Et, et, et, et. C'est très facile en même temps.",
+        "Mon modèle, c'est moi-même!",
+        "Je crois au moment. S'il n'y a pas le moment, à ce moment-là, il faut arriver à ce moment-là, au moment qu'on veut.",
+        "Marcel Proust, oui. Un peu comme moi. Longtemps il s'est couché aware.",
+        "Une femme qui est enceinte, par exemple, elle est aware qu'elle attend un enfant.",
+        "Une noisette, j'la casse entre mes fesses tu vois.",
+        "JEAN CLAUDE VAN DAMME - BLOG NON OFFICIEL"
+    ]
+    let number =0
+
+
+    setInterval(()=>{
+        let navTitle = quotes[number]
+        number = number +1
+
+        title.innerHTML = `${navTitle}`
+        if(number == 11){
+            number = 0
+        }
+
+    },5000)
+
+</script>
 
 </body>
 </html>

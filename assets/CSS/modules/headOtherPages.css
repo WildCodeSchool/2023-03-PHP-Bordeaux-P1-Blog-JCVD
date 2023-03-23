@@ -6,113 +6,6 @@ body {
     text-align: center;
 }
 /* Drop down menu */
-/*
-.slides  {
-    display: inline-flex;
-    overflow: hidden;
-    padding: 0 5px;
-    margin: 0 -5px;
-}
-
-.slide1 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-}
-.slide2 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 15s;
-}
-.slide3 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 30s;
-}
-.slide4 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 45s;
-}
-.slide5 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 60s;
-}
-.slide6 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 75s;
-}
-.slide7 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 90s;
-}
-.slide8 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 105s;
-}
-.slide9 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 115s;
-}
-.slide10 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 130s;
-}
-.slide11 {
-    text-align: center;
-    display: flex;
-    flex-flow: column nowrap;
-    transform: translateY(100%);
-    animation: slide-up 15s ease infinite;
-    animation-delay: 145s;
-}
-
-@keyframes slide-up {
-    10%, 33%{
-        transform: translateY(0%);
-    }
-    43%, 66%{
-        transform: translateY(-100%);
-    }
-    76%, 100%{
-        transform: translateY(-200%);
-    }
-} */
 
 .nameBar {
     position: sticky;
@@ -133,7 +26,7 @@ body {
 #menu-bar {
     width: 45px;
     height: 40px;
-    margin: 30px 0 20px 20px;
+    margin: 50px 0 20px 20px;
     cursor: pointer;
 }
 

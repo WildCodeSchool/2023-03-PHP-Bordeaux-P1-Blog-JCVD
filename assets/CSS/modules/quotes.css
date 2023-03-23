@@ -8,6 +8,13 @@
     color: var(--main-text-color);
 }
 
+.title  {
+    font-size: 15px;
+    padding: 35px;
+    text-align: center;
+}
+
+
 .TitleQuotes h1 {
     font-size: 32px;
 }

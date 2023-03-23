@@ -19,6 +19,12 @@ body{
     color: var(--main-text-color);
 }
 
+.title  {
+    font-size: 15px;
+    padding: 35px;
+    text-align: center;
+}
+
 .entitled h2    {
     font-size: 32px;
 }
