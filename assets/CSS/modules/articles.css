@@ -84,7 +84,13 @@
     display: none;
 }
 
+.containerAsideSticky p {
+    text-decoration: none;
+}
 
+.containerAsideSticky p:hover   {
+    text-decoration: underline;
+}
 @media screen and (min-width: 426px) {
 
     .containerMain {

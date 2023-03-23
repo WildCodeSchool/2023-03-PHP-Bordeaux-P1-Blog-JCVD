@@ -5,6 +5,11 @@ body {
     text-align: center;
 }
 
+.title  {
+    font-size: 15px;
+    padding: 35px;
+}
+
 .aboutUs  h1  {
     display: flex;
     justify-content: center;
@@ -41,6 +46,7 @@ body {
 
 .hover:hover  {
     opacity: 0.5;
+    rotate: 30deg;
 }
 
 
